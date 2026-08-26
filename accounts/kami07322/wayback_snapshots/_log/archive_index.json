@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T18:18:15",
+  "last_updated": "2026-08-26T18:23:40",
   "html": {
     "https://web.archive.org/web/20251111072634if_/https://twitter.com/kami07322/status/1988146318045561022": {
       "status": "done",
@@ -2081,31 +2081,31 @@
   },
   "images": {
     "https://pbs.twimg.com/media/G5ONzwRakAAg31J.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251108092021_twitter_com_kami07322_status_1987087785715806484.json"
       ],
-      "last_updated": "2026-08-26T18:05:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251108092021im_/https://pbs.twimg.com/media/G5ONzwRakAAg31J.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f3440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:18:53",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251108092021/https://pbs.twimg.com/media/G5ONzwRakAAg31J.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G5dPO2_bcAEBjYV.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251111072053_twitter_com_kami07322_status_1988144885200023610.json"
       ],
-      "last_updated": "2026-08-26T18:05:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111072053im_/https://pbs.twimg.com/media/G5dPO2_bcAEBjYV.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7818920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:00",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111072053/https://pbs.twimg.com/media/G5dPO2_bcAEBjYV.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f869713c680>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G5dQiXWbcAACLl7.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251111072634_twitter_com_kami07322_status_1988146318045561022.json"
       ],
-      "last_updated": "2026-08-26T18:06:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111072634/https://pbs.twimg.com/media/G5dQiXWbcAACLl7.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d781a390>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111072634im_/https://pbs.twimg.com/media/G5dQiXWbcAACLl7.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869710df10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G5ofr_oacAAAPPE.jpg": {
       "status": "done",
@@ -2119,9 +2119,9 @@
       "referenced_by": [
         "20251114083400_twitter_com_kami07322_status_1989250452219916332.json"
       ],
-      "last_updated": "2026-08-26T18:06:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114083400im_/https://pbs.twimg.com/media/G5svpK0a8AAdS4l.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d78191c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114083400im_/https://pbs.twimg.com/media/G5svpK0a8AAdS4l.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869710cd10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G539UskagAAv0kO.jpg": {
       "status": "done",
@@ -2149,18 +2149,18 @@
       "referenced_by": [
         "20251119120932_twitter_com_kami07322_status_1991116629049258452.json"
       ],
-      "last_updated": "2026-08-26T18:06:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119120932im_/https://pbs.twimg.com/media/G6HeBJTbAAA0wux.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d781ad80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119120932im_/https://pbs.twimg.com/media/G6HeBJTbAAA0wux.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869713e900>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G6HfC2dbgAITMwp.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251119121401_twitter_com_kami07322_status_1991117757241499952.json"
       ],
-      "last_updated": "2026-08-26T18:06:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119121401im_/https://pbs.twimg.com/media/G6HfC2dbgAITMwp.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7818320>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119121401im_/https://pbs.twimg.com/media/G6HfC2dbgAITMwp.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971571a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G6HoUczaMAAQPgP.jpg": {
       "status": "done",
@@ -2297,9 +2297,9 @@
       "referenced_by": [
         "20251210074034_twitter_com_kami07322_status_1998659085802287177.json"
       ],
-      "last_updated": "2026-08-26T18:06:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251210074034im_/https://pbs.twimg.com/media/G7yp1ocasAAfpDH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7842030>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251210074034im_/https://pbs.twimg.com/media/G7yp1ocasAAfpDH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869713e360>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G739ztdaMAMpS0E.jpg": {
       "status": "done",
@@ -2327,9 +2327,9 @@
       "referenced_by": [
         "20251217010232_twitter_com_kami07322_status_2001095633332281390.json"
       ],
-      "last_updated": "2026-08-26T18:06:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251217010232im_/https://pbs.twimg.com/media/G8VR3TVa4AIWoLs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89836e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251217010232im_/https://pbs.twimg.com/media/G8VR3TVa4AIWoLs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8697156240>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G8eRBHyWYAAD1Yr.jpg": {
       "status": "done",
@@ -2359,9 +2359,9 @@
       "referenced_by": [
         "20251219032411_twitter_com_kami07322_status_2001856058646761577.json"
       ],
-      "last_updated": "2026-08-26T18:06:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251219032411im_/https://pbs.twimg.com/media/G8ej5ZoboAASB7K.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f2e40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251219032411/https://pbs.twimg.com/media/G8ej5ZoboAASB7K.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869710c1a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G8rIQUvbYAAWli5.jpg": {
       "status": "done",
@@ -2396,9 +2396,9 @@
       "referenced_by": [
         "20251224112050_twitter_com_kami07322_status_2003787951847977271.json"
       ],
-      "last_updated": "2026-08-26T18:06:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251224112050/https://pbs.twimg.com/media/G87ihgWbYAAxqZI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f2930>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251224112050im_/https://pbs.twimg.com/media/G87ihgWbYAAxqZI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869710d580>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G88tpnCbcAADwBb.jpg": {
       "status": "done",
@@ -2419,9 +2419,9 @@
       "referenced_by": [
         "20251227014438_twitter_com_kami07322_status_2004730109446738027.json"
       ],
-      "last_updated": "2026-08-26T18:06:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251227014438if_/https://pbs.twimg.com/media/G7heRfkaYAAyPFz.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d8983b00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251227014438im_/https://pbs.twimg.com/media/G7heRfkaYAAyPFz.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971546b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G9QelGVbQAE_kpa.jpg": {
       "status": "done",
@@ -2444,18 +2444,18 @@
       "referenced_by": [
         "20251230065404_twitter_com_kami07322_status_2005895142776221841.json"
       ],
-      "last_updated": "2026-08-26T18:06:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251230065404im_/https://pbs.twimg.com/media/G9Ze_-jaYAIBfvq.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7864740>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251230065404im_/https://pbs.twimg.com/media/G9Ze_-jaYAIBfvq.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971a8dd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G9a9ltnaYAUOrqR.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251230134719_twitter_com_kami07322_status_2005999142431285325.json"
       ],
-      "last_updated": "2026-08-26T18:07:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251230134719if_/https://pbs.twimg.com/media/G9a9ltnaYAUOrqR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d781b620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251230134719im_/https://pbs.twimg.com/media/G9a9ltnaYAUOrqR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971a93a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G9a-hVyasAA3cY5.jpg": {
       "status": "done",
@@ -2477,18 +2477,18 @@
       "referenced_by": [
         "20260102143939_twitter_com_kami07322_status_2007099473651270106.json"
       ],
-      "last_updated": "2026-08-26T18:07:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102143939im_/https://pbs.twimg.com/media/G9qmVZibYAAcPoH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f17f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:19:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102143939im_/https://pbs.twimg.com/media/G9qmVZibYAAcPoH.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971817f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G9qnfl0bAAA9wA4.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260102144443_twitter_com_kami07322_status_2007100748136673582.json"
       ],
-      "last_updated": "2026-08-26T18:07:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102144443im_/https://pbs.twimg.com/media/G9qnfl0bAAA9wA4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7841b80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:20:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102144443im_/https://pbs.twimg.com/media/G9qnfl0bAAA9wA4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8697157620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G9uruCtasAYwbR4.jpg": {
       "status": "done",
@@ -2530,9 +2530,9 @@
       "referenced_by": [
         "20260106195853_twitter_com_kami07322_status_2008629364389478583.json"
       ],
-      "last_updated": "2026-08-26T18:07:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106195853im_/https://pbs.twimg.com/media/G1wLAa3bsAAuBFe.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f04d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:20:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106195853if_/https://pbs.twimg.com/media/G1wLAa3bsAAuBFe.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869713f1d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G-IpZBqa0AcxdLI.jpg": {
       "status": "done",
@@ -2547,9 +2547,9 @@
       "referenced_by": [
         "20260108185051_twitter_com_kami07322_status_2009337018971803699.json"
       ],
-      "last_updated": "2026-08-26T18:07:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260108185051if_/https://pbs.twimg.com/media/G-J4-13a0AEXXVD.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f3fb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:20:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260108185051im_/https://pbs.twimg.com/media/G-J4-13a0AEXXVD.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971567b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G-eLqxfbMAA7_9b.jpg": {
       "status": "done",
@@ -2563,9 +2563,9 @@
       "referenced_by": [
         "20260112201546_twitter_com_kami07322_status_2010807939830002058.json"
       ],
-      "last_updated": "2026-08-26T18:07:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260112201546im_/https://pbs.twimg.com/media/G-fEKB_bYAAMUAs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f3a70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:20:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260112201546if_/https://pbs.twimg.com/media/G-fEKB_bYAAMUAs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8697180380>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G-w0SaibQAQhBDf.jpg": {
       "status": "done",
@@ -2586,18 +2586,18 @@
       "referenced_by": [
         "20260119014606_twitter_com_kami07322_status_2013065395977216509.json"
       ],
-      "last_updated": "2026-08-26T18:07:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260119014606im_/https://pbs.twimg.com/media/G-_YTx5XAAAfrxB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f2cc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:20:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260119014606im_/https://pbs.twimg.com/media/G-_YTx5XAAAfrxB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8697183dd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G_AHfTtXsAAdQSB.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260119051214_twitter_com_kami07322_status_2013117275197595921.json"
       ],
-      "last_updated": "2026-08-26T18:07:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260119051214im_/https://pbs.twimg.com/media/G_AHfTtXsAAdQSB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d78184d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:20:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260119051214if_/https://pbs.twimg.com/media/G_AHfTtXsAAdQSB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971567e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G_JpFYMaoAI-v4P.jpg": {
       "status": "done",
@@ -2626,9 +2626,9 @@
       "referenced_by": [
         "20260204054922_twitter_com_kami07322_status_2018924825507746092.json"
       ],
-      "last_updated": "2026-08-26T18:07:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260204054922/https://pbs.twimg.com/media/HASpaGabsAAyoyi.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7818200>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:20:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260204054922im_/https://pbs.twimg.com/media/HASpaGabsAAyoyi.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8697182900>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HAcnn7-aEAALgA_.jpg": {
       "status": "done",
@@ -2672,9 +2672,9 @@
         "20260223135122_twitter_com_kami07322_status_2025931493315629392.json",
         "20260223140405_twitter_com_kami07322_status_2025934692638507138.json"
       ],
-      "last_updated": "2026-08-26T18:07:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223135122im_/https://pbs.twimg.com/media/HB2N8grbwAADlBX.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7818860>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-26T18:20:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223135122im_/https://pbs.twimg.com/media/HB2N8grbwAADlBX.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869713c350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HB2adsIagAAB3sj.jpg": {
       "status": "done",
@@ -2688,9 +2688,9 @@
       "referenced_by": [
         "20260225104243_twitter_com_kami07322_status_2026608795078873386.json"
       ],
-      "last_updated": "2026-08-26T18:08:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260225104243im_/https://pbs.twimg.com/media/HB_19X3aYAAbORo.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d8f83d40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:20:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260225104243im_/https://pbs.twimg.com/media/HB_19X3aYAAbORo.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971571d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HCFgkJzbsAAUIqb.jpg": {
       "status": "done",
@@ -2704,18 +2704,18 @@
       "referenced_by": [
         "20260302050913_twitter_com_kami07322_status_2028336804609540499.json"
       ],
-      "last_updated": "2026-08-26T18:08:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260302050913im_/https://pbs.twimg.com/media/HCYYO4abUAA6VtP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f3e90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:20:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260302050913im_/https://pbs.twimg.com/media/HCYYO4abUAA6VtP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8697182660>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HCYYO4ab0AAbu_R.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260302050913_twitter_com_kami07322_status_2028336804609540499.json"
       ],
-      "last_updated": "2026-08-26T18:08:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260302050913im_/https://pbs.twimg.com/media/HCYYO4ab0AAbu_R.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7841610>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:21:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260302050913im_/https://pbs.twimg.com/media/HCYYO4ab0AAbu_R.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971560c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HCeiQnoaQAAzhHl.jpg": {
       "status": "done",
@@ -2750,36 +2750,36 @@
       "referenced_by": [
         "20260316033716_twitter_com_kami07322_status_2033387095042269596.json"
       ],
-      "last_updated": "2026-08-26T18:08:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316033716im_/https://pbs.twimg.com/media/HDgKxCJbIAA6sF2.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d781bdd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:21:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316033716im_/https://pbs.twimg.com/media/HDgKxCJbIAA6sF2.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869713dfa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HDgKxCLaMAEmS74.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260316033716_twitter_com_kami07322_status_2033387095042269596.json"
       ],
-      "last_updated": "2026-08-26T18:08:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316033716if_/https://pbs.twimg.com/media/HDgKxCLaMAEmS74.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7841310>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:21:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316033716/https://pbs.twimg.com/media/HDgKxCLaMAEmS74.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869700b9e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HDgKyALbUAATIui.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260316033716_twitter_com_kami07322_status_2033387095042269596.json"
       ],
-      "last_updated": "2026-08-26T18:08:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316033716im_/https://pbs.twimg.com/media/HDgKyALbUAATIui.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d78429f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:21:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316033716im_/https://pbs.twimg.com/media/HDgKyALbUAATIui.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8697157a40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HDgKxLkagAAhcvP.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260316033716_twitter_com_kami07322_status_2033387095042269596.json"
       ],
-      "last_updated": "2026-08-26T18:08:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316033716if_/https://pbs.twimg.com/media/HDgKxLkagAAhcvP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d8983fe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:21:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316033716im_/https://pbs.twimg.com/media/HDgKxLkagAAhcvP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971a8260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HDgLDYSawAEDrLo.jpg": {
       "status": "done",
@@ -2807,9 +2807,9 @@
       "referenced_by": [
         "20260317125831_twitter_com_kami07322_status_2033890727038742801.json"
       ],
-      "last_updated": "2026-08-26T18:08:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260317125831im_/https://pbs.twimg.com/media/HDnU1n2bEA0MPW6.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7864b60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:21:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260317125831im_/https://pbs.twimg.com/media/HDnU1n2bEA0MPW6.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869713f6b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HDx6kg3awAAeTXq.jpg": {
       "status": "done",
@@ -2923,36 +2923,36 @@
       "referenced_by": [
         "20260402085936_twitter_com_kami07322_status_2039628806986813642.json"
       ],
-      "last_updated": "2026-08-26T18:08:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402085936if_/https://pbs.twimg.com/media/HE3ok2xbIAAPLmM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d781ac00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:21:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402085936im_/https://pbs.twimg.com/media/HE3ok2xbIAAPLmM.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869710e0c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HE3ok2vaIAAO11e.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260402085936_twitter_com_kami07322_status_2039628806986813642.json"
       ],
-      "last_updated": "2026-08-26T18:09:00",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402085936/https://pbs.twimg.com/media/HE3ok2vaIAAO11e.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d78669c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:21:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402085936im_/https://pbs.twimg.com/media/HE3ok2vaIAAO11e.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971809e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HE3ok25acAAACZO.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260402085936_twitter_com_kami07322_status_2039628806986813642.json"
       ],
-      "last_updated": "2026-08-26T18:09:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402085936im_/https://pbs.twimg.com/media/HE3ok25acAAACZO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d781b6e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:21:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402085936if_/https://pbs.twimg.com/media/HE3ok25acAAACZO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869700bef0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HE3ok2vaoAA3Xoo.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260402085936_twitter_com_kami07322_status_2039628806986813642.json"
       ],
-      "last_updated": "2026-08-26T18:09:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402085936im_/https://pbs.twimg.com/media/HE3ok2vaoAA3Xoo.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7842930>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:21:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402085936im_/https://pbs.twimg.com/media/HE3ok2vaoAA3Xoo.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869710cdd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HE5BwQtbUAAJgam.jpg": {
       "status": "done",
@@ -3013,9 +3013,9 @@
         "20260412052010_twitter_com_kami07322_status_2043197464543682786.json",
         "20260412052024_twitter_com_kami07322_status_2043197521334501709.json"
       ],
-      "last_updated": "2026-08-26T18:09:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412052010im_/https://pbs.twimg.com/media/HFrF3BeagAAWanE.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d8983890>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-26T18:21:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412052010im_/https://pbs.twimg.com/media/HFrF3BeagAAWanE.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869710f920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HFrF3BgbUAAjiHv.jpg": {
       "status": "failed",
@@ -3023,9 +3023,9 @@
         "20260412052010_twitter_com_kami07322_status_2043197464543682786.json",
         "20260412052024_twitter_com_kami07322_status_2043197521334501709.json"
       ],
-      "last_updated": "2026-08-26T18:09:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412052010im_/https://pbs.twimg.com/media/HFrF3BgbUAAjiHv.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7842e10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-26T18:22:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412052010im_/https://pbs.twimg.com/media/HFrF3BgbUAAjiHv.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8697181af0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HGG5SWXb0AAry9H.jpg": {
       "status": "done",
@@ -3089,18 +3089,18 @@
       "referenced_by": [
         "20260420125823_twitter_com_kami07322_status_2046211880046444821.json"
       ],
-      "last_updated": "2026-08-26T18:09:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420125823im_/https://pbs.twimg.com/media/HGWaFZUa0AAfxay.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d781bf50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:22:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420125823im_/https://pbs.twimg.com/media/HGWaFZUa0AAfxay.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971838c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HGWaFZSaAAE_0Zf.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260420125823_twitter_com_kami07322_status_2046211880046444821.json"
       ],
-      "last_updated": "2026-08-26T18:09:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420125823/https://pbs.twimg.com/media/HGWaFZSaAAE_0Zf.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d94f3cb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:22:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420125823if_/https://pbs.twimg.com/media/HGWaFZSaAAE_0Zf.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869713fd40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HGZOEfoaMAEg7EE.jpg": {
       "status": "done",
@@ -3149,9 +3149,9 @@
       "referenced_by": [
         "20260430090659_twitter_com_kami07322_status_2049777525199655003.json"
       ],
-      "last_updated": "2026-08-26T18:09:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260430090659im_/https://pbs.twimg.com/media/HHJFyozaEAAYMCn.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7843bc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:22:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260430090659if_/https://pbs.twimg.com/media/HHJFyozaEAAYMCn.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869713ca40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HHOJVzEbYAAxwGt.jpg": {
       "status": "done",
@@ -3172,45 +3172,45 @@
       "referenced_by": [
         "20260506033904_twitter_com_kami07322_status_2051869327981461766.json"
       ],
-      "last_updated": "2026-08-26T18:09:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506033904im_/https://pbs.twimg.com/media/HHm0RfOawAA0AxO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7867800>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:22:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506033904im_/https://pbs.twimg.com/media/HHm0RfOawAA0AxO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8697157350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HHm1VgCbMAA7bid.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260506034342_twitter_com_kami07322_status_2051870496095113458.json"
       ],
-      "last_updated": "2026-08-26T18:09:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506034342im_/https://pbs.twimg.com/media/HHm1VgCbMAA7bid.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d78189b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:22:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506034342if_/https://pbs.twimg.com/media/HHm1VgCbMAA7bid.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869700bef0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HHn7hDAa4AAx1e6.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260506085019_twitter_com_kami07322_status_2051947657627877565.json"
       ],
-      "last_updated": "2026-08-26T18:10:01",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260506085019/https://pbs.twimg.com/media/HHn7hDAa4AAx1e6.jpg",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:22:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506085019im_/https://pbs.twimg.com/media/HHn7hDAa4AAx1e6.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869710f980>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HHn7hDBbcAADlgQ.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260506085019_twitter_com_kami07322_status_2051947657627877565.json"
       ],
-      "last_updated": "2026-08-26T18:10:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506085019if_/https://pbs.twimg.com/media/HHn7hDBbcAADlgQ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d781ab40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:22:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506085019im_/https://pbs.twimg.com/media/HHn7hDBbcAADlgQ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8697183b30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HHn7hDHaIAEuHE-.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260506085019_twitter_com_kami07322_status_2051947657627877565.json"
       ],
-      "last_updated": "2026-08-26T18:10:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506085019im_/https://pbs.twimg.com/media/HHn7hDHaIAEuHE-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d9019250>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:22:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506085019im_/https://pbs.twimg.com/media/HHn7hDHaIAEuHE-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86971566f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HHqXS9oWwAEW40z.jpg": {
       "status": "done",
@@ -3233,9 +3233,9 @@
       "referenced_by": [
         "20260509060237_twitter_com_kami07322_status_2052992619098353974.json"
       ],
-      "last_updated": "2026-08-26T18:10:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509060237/https://pbs.twimg.com/media/HH2x5nubUAA00m8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d78952e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:22:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509060237if_/https://pbs.twimg.com/media/HH2x5nubUAA00m8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869710e120>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HH2yxqVbwAA-2ZJ.jpg": {
       "status": "done",
@@ -3249,9 +3249,9 @@
       "referenced_by": [
         "20260509133642_twitter_com_kami07322_status_2053106892877226034.json"
       ],
-      "last_updated": "2026-08-26T18:10:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509133642if_/https://pbs.twimg.com/media/HH4Z1LjaQAAWwu3.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f0d40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:22:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509133642if_/https://pbs.twimg.com/media/HH4Z1LjaQAAWwu3.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8697181880>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HH7XduTbcAAFYqY.jpg": {
       "status": "done",
@@ -3300,9 +3300,9 @@
       "referenced_by": [
         "20260520114913_twitter_com_kami07322_status_2057066109585797386.json"
       ],
-      "last_updated": "2026-08-26T18:10:41",
-      "last_reason": "ReadTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=3)",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:23:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520114913if_/https://pbs.twimg.com/media/HIwqta-bgAAk7CU.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8697155f40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HJJgr3dawAASEUR.jpg": {
       "status": "done",
@@ -3414,18 +3414,18 @@
       "referenced_by": [
         "20260702195739_twitter_com_kami07322_status_2072771704146022909.json"
       ],
-      "last_updated": "2026-08-26T18:10:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702195739im_/https://pbs.twimg.com/media/HMPPCzRbAAAXKM8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d7866420>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:23:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702195739if_/https://pbs.twimg.com/media/HMPPCzRbAAAXKM8.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f86977e9160>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HMPPCzKaMAAbV8y.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260702195739_twitter_com_kami07322_status_2072771704146022909.json"
       ],
-      "last_updated": "2026-08-26T18:10:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702195739im_/https://pbs.twimg.com/media/HMPPCzKaMAAbV8y.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f1790>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:23:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702195739im_/https://pbs.twimg.com/media/HMPPCzKaMAAbV8y.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869710cec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HM275aPboAAYWPj.jpg": {
       "status": "done",
@@ -3439,9 +3439,9 @@
       "referenced_by": [
         "20260713015451_twitter_com_kami07322_status_2076485476266238442.json"
       ],
-      "last_updated": "2026-08-26T18:10:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260713015451im_/https://pbs.twimg.com/media/HNEoh9ObYAAxfrp.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f01d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:23:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260713015451if_/https://pbs.twimg.com/media/HNEoh9ObYAAxfrp.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869710f5c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HNVJQ78bIAAGsTj.jpg": {
       "status": "done",
@@ -3451,13 +3451,13 @@
       "last_updated": "2026-08-26T17:20:41"
     },
     "https://pbs.twimg.com/media/HNqwDkDboAABmmz.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260720113318_twitter_com_kami07322_status_2079167762388357489.json"
       ],
-      "last_updated": "2026-08-26T18:11:00",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260720113318im_/https://pbs.twimg.com/media/HNqwDkDboAABmmz.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d781bc20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:23:34",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260720113318/https://pbs.twimg.com/media/HNqwDkDboAABmmz.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HN0HKGmacAAnJib.jpg": {
       "status": "done",
@@ -3513,9 +3513,9 @@
       "referenced_by": [
         "20260816062407_twitter_com_kami07322_status_2088874427329163330.json"
       ],
-      "last_updated": "2026-08-26T18:11:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260816062407im_/https://pbs.twimg.com/media/HP0sNsxbQAAzbNG.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f05d89f1c70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-26T18:23:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260816062407im_/https://pbs.twimg.com/media/HP0sNsxbQAAzbNG.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f869782a1e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HP0uUY6aAAAcii1.jpg": {
       "status": "done",
@@ -5700,7 +5700,7 @@
   },
   "media": {
     "20251108092021_twitter_com_kami07322_status_1987087785715806484.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G5ONzwRakAAg31J.jpg"
@@ -5710,7 +5710,7 @@
           "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T18:11:33",
+      "last_updated": "2026-08-26T18:18:53",
       "miss_count": 2
     },
     "20251111063127_twitter_com_kami07322_status_1988132445653454946.json": {
@@ -12033,7 +12033,7 @@
       "last_updated": "2026-08-26T17:22:38"
     },
     "20260720113318_twitter_com_kami07322_status_2079167762388357489.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HNqwDkDboAABmmz.jpg"
@@ -12043,7 +12043,7 @@
           "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T18:11:33",
+      "last_updated": "2026-08-26T18:23:34",
       "miss_count": 2
     },
     "20260722071050_twitter_com_kami07322_status_2079826486006321594.json": {
