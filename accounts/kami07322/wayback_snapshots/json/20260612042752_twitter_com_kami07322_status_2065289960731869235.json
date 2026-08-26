@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065289951944851456",
+        "3_2065289951936417792"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2065289960731869235",
+    "created_at": "2026-06-12T04:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T05:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065289960731869235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lcMyYhR3Pd",
+          "end": 44,
+          "expanded_url": "https://x.com/kami07322/status/2065289960731869235/photo/1",
+          "media_key": "3_2065289951944851456",
+          "start": 21,
+          "url": "https://t.co/lcMyYhR3Pd"
+        },
+        {
+          "display_url": "pic.x.com/lcMyYhR3Pd",
+          "end": 44,
+          "expanded_url": "https://x.com/kami07322/status/2065289960731869235/photo/1",
+          "media_key": "3_2065289951936417792",
+          "start": 21,
+          "url": "https://t.co/lcMyYhR3Pd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065289960731869235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在vrchat里有我的自設模型了嘿嘿😈 https://t.co/lcMyYhR3Pd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_2065289951944851456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKliRNfbQAALkag.jpg",
+        "width": 616
+      },
+      {
+        "height": 808,
+        "media_key": "3_2065289951936417792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKliRNdakAAmEvE.jpg",
+        "width": 626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065289951944851456",
+            "3_2065289951936417792"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2065289960731869235",
+        "created_at": "2026-06-12T04:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065289960731869235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lcMyYhR3Pd",
+              "end": 44,
+              "expanded_url": "https://x.com/kami07322/status/2065289960731869235/photo/1",
+              "media_key": "3_2065289951944851456",
+              "start": 21,
+              "url": "https://t.co/lcMyYhR3Pd"
+            },
+            {
+              "display_url": "pic.x.com/lcMyYhR3Pd",
+              "end": 44,
+              "expanded_url": "https://x.com/kami07322/status/2065289960731869235/photo/1",
+              "media_key": "3_2065289951936417792",
+              "start": 21,
+              "url": "https://t.co/lcMyYhR3Pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065289960731869235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在vrchat里有我的自設模型了嘿嘿😈 https://t.co/lcMyYhR3Pd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33230,
+          "following_count": 35,
+          "like_count": 7777,
+          "listed_count": 45,
+          "media_count": 88,
+          "tweet_count": 2134
+        },
+        "username": "kami07322",
+        "verified": false
+      }
+    ]
+  }
+}

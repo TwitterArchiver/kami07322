@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2028041635431633279",
+    "created_at": "2026-03-02T05:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028337058276917331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1701997768280342528",
+          "start": 0,
+          "username": "__bedhead"
+        },
+        {
+          "end": 25,
+          "id": "1960389326258495492",
+          "start": 11,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028337058276917331",
+    "in_reply_to_user_id": "1701997768280342528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028253575869243466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__bedhead @looolzaozimin 下面的是男孩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2028041635431633279",
+        "created_at": "2026-03-02T05:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028337058276917331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1701997768280342528",
+              "start": 0,
+              "username": "__bedhead"
+            },
+            {
+              "end": 25,
+              "id": "1960389326258495492",
+              "start": 11,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028337058276917331",
+        "in_reply_to_user_id": "1701997768280342528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028253575869243466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__bedhead @looolzaozimin 下面的是男孩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997768280342528",
+        "conversation_id": "2028041635431633279",
+        "created_at": "2026-03-01T23:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T00:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028253575869243466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            },
+            {
+              "end": 25,
+              "id": "1960389326258495492",
+              "start": 11,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028253575869243466",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 655,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028041635431633279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 @looolzaozimin why are asian girls always humping each other"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33499,
+          "following_count": 31,
+          "like_count": 7763,
+          "listed_count": 42,
+          "media_count": 50,
+          "tweet_count": 2179
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T16:35:05.000Z",
+        "description": "you could call me analog curious\n\nshe\\they",
+        "id": "1701997768280342528",
+        "location": "far away from here",
+        "name": "yikes!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973114250014105600/pSeZzT3-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 284,
+          "like_count": 16928,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 7866
+        },
+        "username": "__bedhead",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "第二人格@songbansha6606",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "songbansha6606"
+              }
+            ]
+          }
+        },
+        "id": "1960389326258495492",
+        "location": "門288 28888",
+        "name": "小藻",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006630961887535104/Xwoq_Ilo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23854,
+          "following_count": 42,
+          "like_count": 127,
+          "listed_count": 24,
+          "media_count": 78,
+          "tweet_count": 189
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1990025155578667073",
+    "created_at": "2025-11-17T13:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T14:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990416758306750878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977948427058376704",
+          "start": 0,
+          "username": "dongriyu_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990416758306750878",
+    "in_reply_to_user_id": "1977948427058376704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990309282588553682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongriyu_ovo 唉唷 謝謝寶寶嘿嘿(｡￫v￩｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1990025155578667073",
+        "created_at": "2025-11-17T13:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T14:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990416758306750878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977948427058376704",
+              "start": 0,
+              "username": "dongriyu_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990416758306750878",
+        "in_reply_to_user_id": "1977948427058376704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990309282588553682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongriyu_ovo 唉唷 謝謝寶寶嘿嘿(｡￫v￩｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977948427058376704",
+        "conversation_id": "1990025155578667073",
+        "created_at": "2025-11-17T06:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990309282588553682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990309282588553682",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990025155578667073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 哎呀寶寶…每次刷到你都感覺你萌出了一個新高度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 會陸續清除跟隨",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33652,
+          "following_count": 294,
+          "like_count": 7414,
+          "listed_count": 38,
+          "media_count": 171,
+          "tweet_count": 2698
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-14T04:03:57.000Z",
+        "description": "♀🏳️‍🌈♡",
+        "id": "1977948427058376704",
+        "name": "inmywinterdays",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977948798510067712/DRL-8uuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 49,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 62
+        },
+        "username": "dongriyu_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1990025155578667073",
+    "created_at": "2025-11-16T12:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T13:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990031277622513752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1436545079275966468",
+          "start": 0,
+          "username": "demon8077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990031277622513752",
+    "in_reply_to_user_id": "1436545079275966468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990030594898801005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@demon8077 好👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1990025155578667073",
+        "created_at": "2025-11-16T12:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990031277622513752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436545079275966468",
+              "start": 0,
+              "username": "demon8077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990031277622513752",
+        "in_reply_to_user_id": "1436545079275966468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990030594898801005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@demon8077 好👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436545079275966468",
+        "conversation_id": "1990025155578667073",
+        "created_at": "2025-11-16T12:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990030594898801005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990030594898801005",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990025155578667073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 保重身子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 會陸續清除跟隨",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33633,
+          "following_count": 296,
+          "like_count": 7411,
+          "listed_count": 38,
+          "media_count": 171,
+          "tweet_count": 2693
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-11T04:20:21.000Z",
+        "description": "心态是老头~~不约~不约~不约~静静地观赏~",
+        "id": "1436545079275966468",
+        "location": "冥王星",
+        "name": "怠惰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987731953886662656/SS-kw6Ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 919,
+          "like_count": 2240,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 6008
+        },
+        "username": "demon8077",
+        "verified": false
+      }
+    ]
+  }
+}

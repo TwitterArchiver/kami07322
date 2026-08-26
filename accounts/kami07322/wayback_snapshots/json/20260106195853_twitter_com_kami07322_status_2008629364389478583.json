@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2008629364389478583",
+    "created_at": "2026-01-06T19:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T20:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008629364389478583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1644336219751583747",
+          "start": 3,
+          "username": "banban4444886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008629364389478583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971462857641578844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @banban4444886: 可以叫我泡泡 坐标成都\n接妈妈活，爸爸活。纯绿，半绿，线上。线下请过聊天及以上门槛。爸爸活不接非绿。妈妈活再议。\n🚪88好友位\n188开放朋友圈\n288纯绿聊天\n520聊天+不露出照片\n999聊天+无码照片\n请过门问价…！！只回复口令\n互f…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971462838721163264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1wLAa3bsAAuBFe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2008629364389478583",
+        "created_at": "2026-01-06T19:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T20:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008629364389478583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1644336219751583747",
+              "start": 3,
+              "username": "banban4444886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008629364389478583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971462857641578844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @banban4444886: 可以叫我泡泡 坐标成都\n接妈妈活，爸爸活。纯绿，半绿，线上。线下请过聊天及以上门槛。爸爸活不接非绿。妈妈活再议。\n🚪88好友位\n188开放朋友圈\n288纯绿聊天\n520聊天+不露出照片\n999聊天+无码照片\n请过门问价…！！只回复口令\n互f…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971462838721163264"
+          ]
+        },
+        "author_id": "1644336219751583747",
+        "conversation_id": "1971462857641578844",
+        "created_at": "2025-09-26T06:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T07:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971462857641578844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i3SKFs82PU",
+              "end": 160,
+              "expanded_url": "https://x.com/banban4444886/status/1971462857641578844/photo/1",
+              "media_key": "3_1971462838721163264",
+              "start": 137,
+              "url": "https://t.co/i3SKFs82PU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971462857641578844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 66383,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "可以叫我泡泡 坐标成都\n接妈妈活，爸爸活。纯绿，半绿，线上。线下请过聊天及以上门槛。爸爸活不接非绿。妈妈活再议。\n🚪88好友位\n188开放朋友圈\n288纯绿聊天\n520聊天+不露出照片\n999聊天+无码照片\n请过门问价…！！只回复口令\n互fo随眼缘，互转挂三天\n感谢转发。 https://t.co/i3SKFs82PU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了               🚪128 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33460,
+          "following_count": 24,
+          "like_count": 7710,
+          "listed_count": 37,
+          "media_count": 33,
+          "tweet_count": 2105
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-07T13:48:14.000Z",
+        "description": "",
+        "id": "1644336219751583747",
+        "name": "VON",
+        "pinned_tweet_id": "1971462857641578844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960982728590950400/-cT_tdyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 94,
+          "like_count": 1000,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 709
+        },
+        "username": "banban4444886",
+        "verified": false
+      }
+    ]
+  }
+}

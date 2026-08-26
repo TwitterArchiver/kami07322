@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023792561614450689"
+      ],
+      "media_source_tweet_id": [
+        "2023792625942495284"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "2023820547256447275",
+    "created_at": "2026-02-17T18:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T19:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023820547256447275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1529112019013861376",
+          "start": 3,
+          "username": "skura_ku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ClTQLJaU6K",
+          "end": 42,
+          "expanded_url": "https://x.com/skura_ku/status/2023792625942495284/video/1",
+          "media_key": "13_2023792561614450689",
+          "start": 19,
+          "url": "https://t.co/ClTQLJaU6K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023820547256447275",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023792625942495284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @skura_ku: hehe https://t.co/ClTQLJaU6K"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12300,
+        "height": 1280,
+        "media_key": "13_2023792561614450689",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023792561614450689/img/3MONvoymKWd7ygAt.jpg",
+        "public_metrics": {
+          "view_count": 89
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023792561614450689/vid/avc1/320x568/-ob3r6kXFJD2coqA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023792561614450689/vid/avc1/480x852/sLb5BMul3RuBtqwQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023792561614450689/vid/avc1/720x1280/pxwQPnELimDI4EZ8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023792561614450689/pl/5x0TxUE-uZsof6XQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023792561614450689"
+          ],
+          "media_source_tweet_id": [
+            "2023792625942495284"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "2023820547256447275",
+        "created_at": "2026-02-17T18:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023820547256447275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1529112019013861376",
+              "start": 3,
+              "username": "skura_ku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ClTQLJaU6K",
+              "end": 42,
+              "expanded_url": "https://x.com/skura_ku/status/2023792625942495284/video/1",
+              "media_key": "13_2023792561614450689",
+              "start": 19,
+              "url": "https://t.co/ClTQLJaU6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023820547256447275",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023792625942495284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @skura_ku: hehe https://t.co/ClTQLJaU6K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023792561614450689"
+          ]
+        },
+        "author_id": "1529112019013861376",
+        "conversation_id": "2023792625942495284",
+        "created_at": "2026-02-17T16:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023792625942495284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ClTQLJaU6K",
+              "end": 28,
+              "expanded_url": "https://x.com/skura_ku/status/2023792625942495284/video/1",
+              "media_key": "13_2023792561614450689",
+              "start": 5,
+              "url": "https://t.co/ClTQLJaU6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023792625942495284",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 338,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "hehe https://t.co/ClTQLJaU6K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33158,
+          "following_count": 29,
+          "like_count": 7743,
+          "listed_count": 41,
+          "media_count": 47,
+          "tweet_count": 2167
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "あやなHELLO ᝯ◂ ࠫ‘֊‘ ࠫ▾ಎ➹とSAKURA4444444444444444444444ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 不闲聊好友位200 全世界最喜欢@kami07322 💖🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "kami07322"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "name": "アヤナྀིྀི 𓉸ྀི ༘⋆",
+        "pinned_tweet_id": "1997718826864267728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018789092235087872/PAo-Ffws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21367,
+          "following_count": 391,
+          "like_count": 16666,
+          "listed_count": 67,
+          "media_count": 786,
+          "tweet_count": 6676
+        },
+        "username": "skura_ku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2024131209404535233",
+    "created_at": "2026-02-19T16:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024522529457787166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skura_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024522529457787166",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024131209404535233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@skura_ku 有啥事可以找我\n我雖然不怎麼主動發消息 但是我不會覺得你是個麻煩的🥲寶寶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2024131209404535233",
+        "created_at": "2026-02-19T16:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024522529457787166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024522529457787166",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024131209404535233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@skura_ku 有啥事可以找我\n我雖然不怎麼主動發消息 但是我不會覺得你是個麻煩的🥲寶寶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529112019013861376",
+        "conversation_id": "2024131209404535233",
+        "created_at": "2026-02-18T14:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024131209404535233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024131209404535233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 716,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "到头来没人理我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33151,
+          "following_count": 29,
+          "like_count": 7756,
+          "listed_count": 41,
+          "media_count": 47,
+          "tweet_count": 2169
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "あやなHELLO ᝯ◂ ࠫ‘֊‘ ࠫ▾ಎ➹とSAKURA4444444444444444444444ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 不闲聊好友位200 全世界最喜欢@kami07322 💖🌍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "kami07322"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "name": "アヤナྀིྀི 𓉸ྀི ༘⋆",
+        "pinned_tweet_id": "1997718826864267728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024049282811392000/-R1uw7y8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21401,
+          "following_count": 393,
+          "like_count": 16682,
+          "listed_count": 67,
+          "media_count": 787,
+          "tweet_count": 6692
+        },
+        "username": "skura_ku",
+        "verified": false
+      }
+    ]
+  }
+}

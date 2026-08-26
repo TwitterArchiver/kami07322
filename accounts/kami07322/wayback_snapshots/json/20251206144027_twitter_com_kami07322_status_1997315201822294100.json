@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997315166204272640"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "1997315201822294100",
+    "created_at": "2025-12-06T14:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997315201822294100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CVLkstQsE9",
+          "end": 64,
+          "expanded_url": "https://x.com/kami07322/status/1997315201822294100/photo/1",
+          "media_key": "3_1997315166204272640",
+          "start": 41,
+          "url": "https://t.co/CVLkstQsE9"
+        },
+        {
+          "display_url": "x.com/_infinity_xxx/…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/_infinity_xxx/status/1995820387318595885",
+          "start": 65,
+          "url": "https://t.co/EEVCKLMr8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997315201822294100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995820387318595885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "★弒魂魔靈★\n★聽吾號令★\n☆對於阻擋在前方的愚蠢之物，賦予他們平等的毀滅吧！☆ https://t.co/CVLkstQsE9 https://t.co/EEVCKLMr8e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997315166204272640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fjj7obIAAouRS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1995820382461575168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KUEEQbQAANjD-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997315166204272640"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1997315201822294100",
+        "created_at": "2025-12-06T14:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997315201822294100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVLkstQsE9",
+              "end": 64,
+              "expanded_url": "https://x.com/kami07322/status/1997315201822294100/photo/1",
+              "media_key": "3_1997315166204272640",
+              "start": 41,
+              "url": "https://t.co/CVLkstQsE9"
+            },
+            {
+              "display_url": "x.com/_infinity_xxx/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/_infinity_xxx/status/1995820387318595885",
+              "start": 65,
+              "url": "https://t.co/EEVCKLMr8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997315201822294100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995820387318595885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "★弒魂魔靈★\n★聽吾號令★\n☆對於阻擋在前方的愚蠢之物，賦予他們平等的毀滅吧！☆ https://t.co/CVLkstQsE9 https://t.co/EEVCKLMr8e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995820382461575168"
+          ]
+        },
+        "author_id": "1392452107450474499",
+        "conversation_id": "1995820387318595885",
+        "created_at": "2025-12-02T11:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995820387318595885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FWZzHMnXB",
+              "end": 44,
+              "expanded_url": "https://x.com/_infinity_xxx/status/1995820387318595885/photo/1",
+              "media_key": "3_1995820382461575168",
+              "start": 21,
+              "url": "https://t.co/5FWZzHMnXB"
+            },
+            {
+              "display_url": "x.com/ratte_ertrinke…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/ratte_ertrinken/status/1995456110933774683",
+              "start": 45,
+              "url": "https://t.co/QG2Y2D0JFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995820387318595885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7848,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995456110933774683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家の中で魔法陣作って怒られたことあったな https://t.co/5FWZzHMnXB https://t.co/QG2Y2D0JFW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了                                        裏帳@kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33567,
+          "following_count": 22,
+          "like_count": 7572,
+          "listed_count": 36,
+          "media_count": 88,
+          "tweet_count": 2665
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-12T12:10:45.000Z",
+        "description": "PTSDでピーヒョロ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aomaru319",
+                "end": 23,
+                "expanded_url": "https://lit.link/aomaru319",
+                "start": 0,
+                "url": "https://t.co/qKE42KNqt3"
+              }
+            ]
+          }
+        },
+        "id": "1392452107450474499",
+        "location": "💤💤💤",
+        "name": "あおまる",
+        "pinned_tweet_id": "1988654113568215304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995115439303860224/VDH6R3Mf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17766,
+          "following_count": 292,
+          "like_count": 3326,
+          "listed_count": 40,
+          "media_count": 6634,
+          "tweet_count": 26321
+        },
+        "url": "https://t.co/qKE42KNqt3",
+        "username": "_infinity_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

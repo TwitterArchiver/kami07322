@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2003783758923919636",
+    "created_at": "2025-12-24T11:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T12:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003795088829485125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997495772066324480",
+          "start": 0,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003795088829485125",
+    "in_reply_to_user_id": "1997495772066324480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003794131915833438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuma02150128 小寶寶呀 謝謝泥～💙💙💙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2003783758923919636",
+        "created_at": "2025-12-24T11:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003795088829485125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997495772066324480",
+              "start": 0,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003795088829485125",
+        "in_reply_to_user_id": "1997495772066324480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003794131915833438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuma02150128 小寶寶呀 謝謝泥～💙💙💙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997495772066324480",
+        "conversation_id": "2003783758923919636",
+        "created_at": "2025-12-24T11:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003794131915833438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003794131915833438",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003783758923919636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 海眠宝宝萌萌萌🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了               🚪50 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33109,
+          "following_count": 22,
+          "like_count": 7621,
+          "listed_count": 36,
+          "media_count": 52,
+          "tweet_count": 2683
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！",
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997497206585327616/mBY164Ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 21,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 37
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

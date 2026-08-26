@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2007837737622364348",
+    "created_at": "2026-01-04T15:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T16:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007837737622364348"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007837737622364348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想吃的東西吃不到 \n喜歡的東西得不到\n擁有的東西總會沒\n付出的東西總會被反噬。\n一切都按照往常進行中\n但是我不覺得我是悲觀主義者\n依舊如常而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2007837737622364348",
+        "created_at": "2026-01-04T15:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007837737622364348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007837737622364348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想吃的東西吃不到 \n喜歡的東西得不到\n擁有的東西總會沒\n付出的東西總會被反噬。\n一切都按照往常進行中\n但是我不覺得我是悲觀主義者\n依舊如常而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了               🚪128 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33456,
+          "following_count": 24,
+          "like_count": 7708,
+          "listed_count": 37,
+          "media_count": 32,
+          "tweet_count": 2089
+        },
+        "username": "kami07322",
+        "verified": true
+      }
+    ]
+  }
+}

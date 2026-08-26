@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2052118957021159838",
+    "created_at": "2026-05-07T05:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T06:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052260683631505632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1881414347072950273",
+          "start": 0,
+          "username": "J4YDENNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052260683631505632",
+    "in_reply_to_user_id": "1881414347072950273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052118957021159838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J4YDENNN 謝謝你😭😭辛苦你了( ´･ω･)ﾉ\n很開心嘿嘿 我也喜歡你！！💙💙💙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052118932257947649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqXS9oWwAEW40z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052118951832727557",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqXUGjWMAU3uvu.jpg",
+        "width": 1333
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2052118957021159838",
+        "created_at": "2026-05-07T05:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052260683631505632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881414347072950273",
+              "start": 0,
+              "username": "J4YDENNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052260683631505632",
+        "in_reply_to_user_id": "1881414347072950273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052118957021159838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J4YDENNN 謝謝你😭😭辛苦你了( ´･ω･)ﾉ\n很開心嘿嘿 我也喜歡你！！💙💙💙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052118932257947649",
+            "3_2052118951832727557"
+          ]
+        },
+        "author_id": "1881414347072950273",
+        "conversation_id": "2052118957021159838",
+        "created_at": "2026-05-06T20:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T21:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052118957021159838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1747931023277502465",
+              "start": 9,
+              "username": "kami07322"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQqUuHNOtF",
+              "end": 103,
+              "expanded_url": "https://x.com/J4YDENNN/status/2052118957021159838/photo/1",
+              "media_key": "3_2052118932257947649",
+              "start": 80,
+              "url": "https://t.co/uQqUuHNOtF"
+            },
+            {
+              "display_url": "pic.x.com/uQqUuHNOtF",
+              "end": 103,
+              "expanded_url": "https://x.com/J4YDENNN/status/2052118957021159838/photo/1",
+              "media_key": "3_2052118951832727557",
+              "start": 80,
+              "url": "https://t.co/uQqUuHNOtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052118957021159838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我花了几个小时画 @kami07322  !我非常喜欢他的风格，所以想画他。\n  (*´ω｀*)\n（翻译可能不准确，抱歉，中文不是我的母语。(´＿｀。)ﾞ ） https://t.co/uQqUuHNOtF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33544,
+          "following_count": 33,
+          "like_count": 7801,
+          "listed_count": 46,
+          "media_count": 75,
+          "tweet_count": 2112
+        },
+        "url": "",
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T18:52:10.000Z",
+        "description": "Loving my bf ♡ @DamGh0ost_444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "DamGh0ost_444"
+              }
+            ]
+          }
+        },
+        "id": "1881414347072950273",
+        "name": "Proyectadodetwtt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039831859337564160/BVmhYGUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 151,
+          "like_count": 6625,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1398
+        },
+        "url": "",
+        "username": "J4YDENNN",
+        "verified": false
+      }
+    ]
+  }
+}

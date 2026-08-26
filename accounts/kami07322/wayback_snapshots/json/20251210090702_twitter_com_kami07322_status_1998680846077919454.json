@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1998680731086888960"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "1998680846077919454",
+    "created_at": "2025-12-10T09:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T10:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998680846077919454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vrpwKl4Bsr",
+          "end": 36,
+          "expanded_url": "https://x.com/kami07322/status/1998680846077919454/video/1",
+          "media_key": "13_1998680731086888960",
+          "start": 13,
+          "url": "https://t.co/vrpwKl4Bsr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998680846077919454",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🩸⚠️👁️👁️👁️⚠️🩸 https://t.co/vrpwKl4Bsr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998680846077919454].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998680846077919454",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998680846077919454"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4833,
+        "height": 2160,
+        "media_key": "13_1998680731086888960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998680731086888960/img/UecqWW21mvAptukL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998680731086888960/vid/avc1/720x720/Xo_wE9_yHXVvGFYe.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998680731086888960/vid/avc1/1080x1080/MgsUiTnPBupLXLWB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998680731086888960/vid/avc1/540x540/Zo7X2tpnaKr_zzjo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998680731086888960/pl/h7l4nw9RAIrza88c.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998680731086888960/vid/avc1/320x320/67-ffhBzUO464BVp.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了                                        裏帳@kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33507,
+          "following_count": 21,
+          "like_count": 7596,
+          "listed_count": 36,
+          "media_count": 72,
+          "tweet_count": 2662
+        },
+        "username": "kami07322",
+        "verified": true
+      }
+    ]
+  }
+}

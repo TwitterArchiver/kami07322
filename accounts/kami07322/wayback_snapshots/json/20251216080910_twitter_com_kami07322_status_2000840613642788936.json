@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2000747059796955533",
+    "created_at": "2025-12-16T08:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T09:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000840613642788936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1936106228964634624",
+          "start": 0,
+          "username": "Yuan111_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000840613642788936",
+    "in_reply_to_user_id": "1936106228964634624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000787214025023950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuan111_9 給摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2000747059796955533",
+        "created_at": "2025-12-16T08:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000840613642788936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1936106228964634624",
+              "start": 0,
+              "username": "Yuan111_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000840613642788936",
+        "in_reply_to_user_id": "1936106228964634624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000787214025023950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuan111_9 給摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936106228964634624",
+        "conversation_id": "2000747059796955533",
+        "created_at": "2025-12-16T04:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000787214025023950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000787214025023950",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000747059796955533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 我摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了                                        裏帳@kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33298,
+          "following_count": 22,
+          "like_count": 7606,
+          "listed_count": 35,
+          "media_count": 55,
+          "tweet_count": 2667
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-20T16:58:06.000Z",
+        "description": "我喜欢和小女孩们一起玩333",
+        "id": "1936106228964634624",
+        "name": "🍎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937183997106286592/A5E7sG2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 85,
+          "like_count": 7484,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 4729
+        },
+        "username": "Yuan111_9",
+        "verified": false
+      }
+    ]
+  }
+}

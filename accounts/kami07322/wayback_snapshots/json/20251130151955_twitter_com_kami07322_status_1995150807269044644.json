@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1995022186441253293",
+    "created_at": "2025-11-30T15:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T16:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995150807269044644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854023857817939968",
+          "start": 0,
+          "username": "SetoNotFound"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995150807269044644",
+    "in_reply_to_user_id": "1854023857817939968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995135354593280490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SetoNotFound 嘿嘿謝謝！🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1995022186441253293",
+        "created_at": "2025-11-30T15:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995150807269044644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854023857817939968",
+              "start": 0,
+              "username": "SetoNotFound"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995150807269044644",
+        "in_reply_to_user_id": "1854023857817939968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995135354593280490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SetoNotFound 嘿嘿謝謝！🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854023857817939968",
+        "conversation_id": "1995022186441253293",
+        "created_at": "2025-11-30T14:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995135354593280490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995135354593280490",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995022186441253293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 咋这么萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33644,
+          "following_count": 17,
+          "like_count": 7486,
+          "listed_count": 36,
+          "media_count": 161,
+          "tweet_count": 2711
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-06T04:51:57.000Z",
+        "description": "✝️SetoNotFound✝️\nShanghai UDG Musician/Cosplayer/JDMer\nIG/douyin/Bilibili:SetoNotFound\nSNF Products CEO\nSNF Products Vol.1 Coming soon 2026🔥\nCheer up，world.",
+        "id": "1854023857817939968",
+        "location": "Luvis/Shabby Club",
+        "name": "SNF_Official（梦想和暗的光合作）",
+        "pinned_tweet_id": "1980647680406868458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978824265500708864/UVhw7g43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 484,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 440
+        },
+        "username": "SetoNotFound",
+        "verified": false
+      }
+    ]
+  }
+}

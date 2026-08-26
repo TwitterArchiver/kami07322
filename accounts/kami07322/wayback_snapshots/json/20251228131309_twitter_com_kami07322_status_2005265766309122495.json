@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2005261363615257015",
+    "created_at": "2025-12-28T13:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T14:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005265766309122495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1599033441986793474",
+          "start": 0,
+          "username": "Lovelian0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005265766309122495",
+    "in_reply_to_user_id": "1599033441986793474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005263430262083810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lovelian0 能被喜歡我很開心!嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2005261363615257015",
+        "created_at": "2025-12-28T13:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005265766309122495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1599033441986793474",
+              "start": 0,
+              "username": "Lovelian0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005265766309122495",
+        "in_reply_to_user_id": "1599033441986793474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005263430262083810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lovelian0 能被喜歡我很開心!嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599033441986793474",
+        "conversation_id": "2005261363615257015",
+        "created_at": "2025-12-28T13:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005263430262083810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005263430262083810",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005261363615257015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 我发誓每一套造型都超棒~ 🩷\n没有一套不好看！( ＞Д＜；)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了               🚪128 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33376,
+          "following_count": 22,
+          "like_count": 7639,
+          "listed_count": 36,
+          "media_count": 29,
+          "tweet_count": 2672
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-03T13:31:42.000Z",
+        "description": "",
+        "id": "1599033441986793474",
+        "name": "Lian♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948876761044852736/_pTdqT1Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 285,
+          "like_count": 10549,
+          "listed_count": 4,
+          "media_count": 139,
+          "tweet_count": 1574
+        },
+        "username": "Lovelian0",
+        "verified": false
+      }
+    ]
+  }
+}

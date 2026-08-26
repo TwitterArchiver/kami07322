@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2064797961461346513",
+    "created_at": "2026-06-12T00:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T01:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065229733462413611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2064542363595493376",
+          "start": 0,
+          "username": "ToriNoelle003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065229733462413611",
+    "in_reply_to_user_id": "2064542363595493376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064797961461346513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToriNoelle003 誰還記得我的無償😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064797949310459904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeiy42a4AAnXeI.jpg",
+        "width": 724
+      },
+      {
+        "height": 829,
+        "media_key": "3_2064797949306232832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeiy41aYAAX8fv.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2064797961461346513",
+        "created_at": "2026-06-12T00:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065229733462413611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2064542363595493376",
+              "start": 0,
+              "username": "ToriNoelle003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065229733462413611",
+        "in_reply_to_user_id": "2064542363595493376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064797961461346513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToriNoelle003 誰還記得我的無償😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064797949310459904",
+            "3_2064797949306232832"
+          ]
+        },
+        "author_id": "2064542363595493376",
+        "conversation_id": "2064797961461346513",
+        "created_at": "2026-06-10T19:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T20:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064797961461346513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZkKDUak3Hv",
+              "end": 68,
+              "expanded_url": "https://x.com/ToriNoelle003/status/2064797961461346513/photo/1",
+              "media_key": "3_2064797949310459904",
+              "start": 45,
+              "url": "https://t.co/ZkKDUak3Hv"
+            },
+            {
+              "display_url": "pic.x.com/ZkKDUak3Hv",
+              "end": 68,
+              "expanded_url": "https://x.com/ToriNoelle003/status/2064797961461346513/photo/1",
+              "media_key": "3_2064797949306232832",
+              "start": 45,
+              "url": "https://t.co/ZkKDUak3Hv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064797961461346513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想做小畫師接接稿，有無需要oc大光或者個人自設照片的，低價不包含上色服務，可以轉漫畫風格 https://t.co/ZkKDUak3Hv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33234,
+          "following_count": 35,
+          "like_count": 7778,
+          "listed_count": 45,
+          "media_count": 87,
+          "tweet_count": 2133
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T02:58:59.000Z",
+        "description": "“為遠去的鳥兒獻上革命的花朵。”\n（前世@DKR_World）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "DKR_World"
+              }
+            ]
+          }
+        },
+        "id": "2064542363595493376",
+        "location": "東京暴動革命支部",
+        "name": "◎人生速通指南",
+        "pinned_tweet_id": "2064545724407406691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064542992820830208/n5svD8S2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 56,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 29
+        },
+        "username": "ToriNoelle003",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2003783758923919636",
+    "created_at": "2025-12-24T15:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T16:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003844705071833254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1738456591601684480",
+          "start": 0,
+          "username": "czaycxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003844705071833254",
+    "in_reply_to_user_id": "1738456591601684480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003843133407478211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@czaycxy www謝謝寶寶的祝福(இωஇ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2003783758923919636",
+        "created_at": "2025-12-24T15:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003844705071833254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1738456591601684480",
+              "start": 0,
+              "username": "czaycxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003844705071833254",
+        "in_reply_to_user_id": "1738456591601684480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003843133407478211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@czaycxy www謝謝寶寶的祝福(இωஇ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738456591601684480",
+        "conversation_id": "2003783758923919636",
+        "created_at": "2025-12-24T15:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003843133407478211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003843133407478211",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003783758923919636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 圣诞快乐 海眠！希望幸福永远围绕着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了               🚪50 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33112,
+          "following_count": 22,
+          "like_count": 7626,
+          "listed_count": 36,
+          "media_count": 52,
+          "tweet_count": 2687
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-23T07:08:55.000Z",
+        "description": "🫧⋆.˚ 𖦹⋆✮⋆.˚ 𝕥𝕠𝕣𝕞𝕖𝕟𝕥 🐾🤍",
+        "id": "1738456591601684480",
+        "name": "神没有技能",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003266961233575937/v-Ro7Wfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 72,
+          "like_count": 4149,
+          "listed_count": 6,
+          "media_count": 177,
+          "tweet_count": 475
+        },
+        "username": "czaycxy",
+        "verified": false
+      }
+    ]
+  }
+}

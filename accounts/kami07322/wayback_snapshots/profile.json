@@ -1,0 +1,25 @@
+{
+  "name": "海眠大人🪦",
+  "username": "@kami07322",
+  "bio": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 68,
+        "start": 56,
+        "username": "kami2234523"
+      },
+      {
+        "end": 86,
+        "start": 77,
+        "username": "skura_ku"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg"
+}

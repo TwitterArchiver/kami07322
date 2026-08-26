@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2043162946097054183",
+    "created_at": "2026-04-12T05:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043197521334501709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997495772066324480",
+          "start": 0,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043197521334501709",
+    "in_reply_to_user_id": "1997495772066324480",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043162946097054183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuma02150128 💙( ̀⌄ ́)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043162930045419520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrF3BeagAAWanE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043162930053861376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrF3BgbUAAjiHv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2043162946097054183",
+        "created_at": "2026-04-12T05:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043197521334501709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997495772066324480",
+              "start": 0,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043197521334501709",
+        "in_reply_to_user_id": "1997495772066324480",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043162946097054183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuma02150128 💙( ̀⌄ ́)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043162930045419520",
+            "3_2043162930053861376"
+          ]
+        },
+        "author_id": "1997495772066324480",
+        "conversation_id": "2043162946097054183",
+        "created_at": "2026-04-12T03:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043162946097054183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1747931023277502465",
+              "start": 32,
+              "username": "kami07322"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJWabZrrZO",
+              "end": 66,
+              "expanded_url": "https://x.com/kuma02150128/status/2043162946097054183/photo/1",
+              "media_key": "3_2043162930045419520",
+              "start": 43,
+              "url": "https://t.co/GJWabZrrZO"
+            },
+            {
+              "display_url": "pic.x.com/GJWabZrrZO",
+              "end": 66,
+              "expanded_url": "https://x.com/kuma02150128/status/2043162946097054183/photo/1",
+              "media_key": "3_2043162930053861376",
+              "start": 43,
+              "url": "https://t.co/GJWabZrrZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043162946097054183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊这个海眠太可爱啦💙💙💙💙都去支持这个小宝宝🥺🫶🏻💙💙💙@kami07322 https://t.co/GJWabZrrZO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32947,
+          "following_count": 31,
+          "like_count": 7764,
+          "listed_count": 45,
+          "media_count": 66,
+          "tweet_count": 2078
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！欢迎找我互fo 🥺/精神状态up/自残/我在努力生活！！！",
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 181,
+          "like_count": 2844,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 818
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

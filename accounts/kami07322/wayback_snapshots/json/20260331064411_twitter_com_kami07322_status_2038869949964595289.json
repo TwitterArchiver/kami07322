@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038869895656730624"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "2038869949964595289",
+    "created_at": "2026-03-31T06:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038869949964595289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X10O85Dfpq",
+          "end": 29,
+          "expanded_url": "https://x.com/kami07322/status/2038869949964595289/video/1",
+          "media_key": "13_2038869895656730624",
+          "start": 6,
+          "url": "https://t.co/X10O85Dfpq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038869949964595289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我獨自賣萌 https://t.co/X10O85Dfpq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4916,
+        "height": 1280,
+        "media_key": "13_2038869895656730624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038869895656730624/img/OurdXruVXJ0FImMi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038869895656730624/vid/avc1/320x568/ZV09jjF3YwoCyIhd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038869895656730624/vid/avc1/480x852/Ll2QIeMbSEAkivqX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038869895656730624/vid/avc1/720x1280/ZbyYjcuKPjiCV5NZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038869895656730624/pl/4s_gQ5fs_PATQyr_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038869895656730624"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "2038869949964595289",
+        "created_at": "2026-03-31T06:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038869949964595289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X10O85Dfpq",
+              "end": 29,
+              "expanded_url": "https://x.com/kami07322/status/2038869949964595289/video/1",
+              "media_key": "13_2038869895656730624",
+              "start": 6,
+              "url": "https://t.co/X10O85Dfpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038869949964595289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我獨自賣萌 https://t.co/X10O85Dfpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33314,
+          "following_count": 31,
+          "like_count": 7723,
+          "listed_count": 45,
+          "media_count": 59,
+          "tweet_count": 2055
+        },
+        "username": "kami07322",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1993869962629546441",
+    "created_at": "2025-11-28T10:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994346315954749605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1840046947115380736",
+          "start": 0,
+          "username": "momo13388788781"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994346315954749605",
+    "in_reply_to_user_id": "1840046947115380736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994327124124024923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momo13388788781 可能天生如此吧！（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1993869962629546441",
+        "created_at": "2025-11-28T10:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994346315954749605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1840046947115380736",
+              "start": 0,
+              "username": "momo13388788781"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994346315954749605",
+        "in_reply_to_user_id": "1840046947115380736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994327124124024923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momo13388788781 可能天生如此吧！（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840046947115380736",
+        "conversation_id": "1993869962629546441",
+        "created_at": "2025-11-28T08:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994327124124024923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994327124124024923",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993869962629546441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 怎么那么帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33658,
+          "following_count": 17,
+          "like_count": 7473,
+          "listed_count": 36,
+          "media_count": 159,
+          "tweet_count": 2702
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T15:12:42.000Z",
+        "description": "‖shtwt爱好者 ，有严重的焦虑症和双相，伴有一会是定c-tpsd症状 ， 07生人 ，实际是无性别主义‖主要业务是画画，占卜不收费但是一般不给线上陌生人占‖⚠️请注意我不是mtf而是纯血女人，我只是假小子我没有跨性别倾向⚠️‖",
+        "id": "1840046947115380736",
+        "location": "理想终点",
+        "name": "🎀momo‖shtwt🔪🥩",
+        "pinned_tweet_id": "1974129174928654593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992476162912911360/dx3GZcGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 152,
+          "like_count": 8842,
+          "listed_count": 3,
+          "media_count": 628,
+          "tweet_count": 5362
+        },
+        "username": "momo13388788781",
+        "verified": false
+      }
+    ]
+  }
+}

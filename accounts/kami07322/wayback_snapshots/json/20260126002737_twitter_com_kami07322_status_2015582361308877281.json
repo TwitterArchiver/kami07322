@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2015375378442027160",
+    "created_at": "2026-01-26T00:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T01:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015582361308877281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skura_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015582361308877281",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015375378442027160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@skura_ku 女鼠容易生病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2015375378442027160",
+        "created_at": "2026-01-26T00:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T01:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015582361308877281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015582361308877281",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015375378442027160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@skura_ku 女鼠容易生病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529112019013861376",
+        "conversation_id": "2015375378442027160",
+        "created_at": "2026-01-25T10:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015375378442027160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015375378442027160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "等我有能力我想养花枝鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了               🚪128 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33422,
+          "following_count": 27,
+          "like_count": 7736,
+          "listed_count": 39,
+          "media_count": 40,
+          "tweet_count": 2142
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "あやなHELLO ᝯ◂ ࠫ‘֊‘ ࠫ▾ಎ➹とcwhSAKURA44444444444444444444444444444444444 ꧦ𐅁𐀸𐋠𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ﯩᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ީᩝ𛰚 不闲聊好友位200",
+        "id": "1529112019013861376",
+        "name": "アヤナྀིྀི 𓉸ྀི ༘⋆",
+        "pinned_tweet_id": "1997718826864267728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014026249463877632/osrJ7H-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21480,
+          "following_count": 394,
+          "like_count": 16696,
+          "listed_count": 65,
+          "media_count": 773,
+          "tweet_count": 6588
+        },
+        "username": "skura_ku",
+        "verified": false
+      }
+    ]
+  }
+}

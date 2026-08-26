@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2061063360171717021",
+    "created_at": "2026-05-31T17:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061141034890105340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1570856490654904320",
+          "start": 0,
+          "username": "4berrycat"
+        },
+        {
+          "end": 23,
+          "id": "1950521580288884736",
+          "start": 11,
+          "username": "AmeKam10623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061141034890105340",
+    "in_reply_to_user_id": "1570856490654904320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061121049698381959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4berrycat @AmeKam10623 到時候你可以去廣州的昌隆呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2061063360171717021",
+        "created_at": "2026-05-31T17:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061141034890105340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570856490654904320",
+              "start": 0,
+              "username": "4berrycat"
+            },
+            {
+              "end": 23,
+              "id": "1950521580288884736",
+              "start": 11,
+              "username": "AmeKam10623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061141034890105340",
+        "in_reply_to_user_id": "1570856490654904320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061121049698381959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4berrycat @AmeKam10623 到時候你可以去廣州的昌隆呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570856490654904320",
+        "conversation_id": "2061063360171717021",
+        "created_at": "2026-05-31T16:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061121049698381959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            },
+            {
+              "end": 23,
+              "id": "1950521580288884736",
+              "start": 11,
+              "username": "AmeKam10623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061121049698381959",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061063360171717021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 @AmeKam10623 我也想去水上乐园玩TaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33323,
+          "following_count": 34,
+          "like_count": 7781,
+          "listed_count": 45,
+          "media_count": 82,
+          "tweet_count": 2122
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-16T19:26:04.000Z",
+        "description": "這裡是黑貓的日記本📓CHINESE TATTOO ARTIST𖤐 為自己寫字的人𖤐 日本語まだまだ勉強中 𖤐 Learning basic English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/du7lucky?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/du7lucky?igsh=MWFrZHhnb2pjMjRq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/khAu6pPqpL"
+              }
+            ]
+          }
+        },
+        "id": "1570856490654904320",
+        "location": "黒猫様の古城",
+        "name": "尸貓",
+        "pinned_tweet_id": "1762536671650930689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866845366424903680/KU_TVQzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8089,
+          "following_count": 266,
+          "like_count": 9275,
+          "listed_count": 21,
+          "media_count": 790,
+          "tweet_count": 2749
+        },
+        "url": "https://t.co/khAu6pPqpL",
+        "username": "4berrycat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T11:39:27.000Z",
+        "description": "坐标重庆/不定时去江浙沪 接线下包路費可🛩️",
+        "id": "1950521580288884736",
+        "location": "🚪199/288/388/520",
+        "name": "血",
+        "pinned_tweet_id": "1985976851093995534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033661883077824512/e6G9Du_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6612,
+          "following_count": 132,
+          "like_count": 405,
+          "listed_count": 13,
+          "media_count": 65,
+          "tweet_count": 455
+        },
+        "username": "AmeKam10623",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080923654872076288"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2080923663130677325",
+    "created_at": "2026-07-25T07:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080923663130677325"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 0,
+          "tag": "東方Project"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZDeDs8zUnj",
+          "end": 46,
+          "expanded_url": "https://x.com/kami07322/status/2080923663130677325/photo/1",
+          "media_key": "3_2080923654872076288",
+          "start": 23,
+          "url": "https://t.co/ZDeDs8zUnj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080923663130677325",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#東方Project\n最強————（ᗜᴗᗜ） https://t.co/ZDeDs8zUnj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2080923654872076288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODtCfVbkAAia5y.jpg",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080923654872076288"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2080923663130677325",
+        "created_at": "2026-07-25T07:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080923663130677325"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDeDs8zUnj",
+              "end": 46,
+              "expanded_url": "https://x.com/kami07322/status/2080923663130677325/photo/1",
+              "media_key": "3_2080923654872076288",
+              "start": 23,
+              "url": "https://t.co/ZDeDs8zUnj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080923663130677325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Project\n最強————（ᗜᴗᗜ） https://t.co/ZDeDs8zUnj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33040,
+          "following_count": 36,
+          "like_count": 7638,
+          "listed_count": 45,
+          "media_count": 96,
+          "tweet_count": 2106
+        },
+        "url": "",
+        "username": "kami07322",
+        "verified": false
+      }
+    ]
+  }
+}

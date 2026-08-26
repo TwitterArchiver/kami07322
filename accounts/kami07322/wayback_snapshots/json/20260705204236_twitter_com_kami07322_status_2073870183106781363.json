@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2073821047774913000",
+    "created_at": "2026-07-05T20:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T21:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073870183106781363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1918039700293730305",
+          "start": 0,
+          "username": "muji_4114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073870183106781363",
+    "in_reply_to_user_id": "1918039700293730305",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073821047774913000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muji_4114 o(≧v≦)o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2073821047774913000",
+        "created_at": "2026-07-05T20:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073870183106781363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1918039700293730305",
+              "start": 0,
+              "username": "muji_4114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073870183106781363",
+        "in_reply_to_user_id": "1918039700293730305",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073821047774913000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muji_4114 o(≧v≦)o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918039700293730305",
+        "conversation_id": "2073821047774913000",
+        "created_at": "2026-07-05T17:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073821047774913000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kami07322/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kami07322/status/2068238745657339952",
+              "start": 3,
+              "url": "https://t.co/61hTdilJcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073821047774913000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068238745657339952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啾咪 https://t.co/61hTdilJcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33134,
+          "following_count": 35,
+          "like_count": 7680,
+          "listed_count": 45,
+          "media_count": 92,
+          "tweet_count": 2101
+        },
+        "url": "",
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T20:28:02.000Z",
+        "description": "他们/它 they/it 做个梦 存放一些不能被他们看见的 这是个暂时的我 终将消亡的我 我欢送他",
+        "id": "1918039700293730305",
+        "name": "夢士",
+        "pinned_tweet_id": "1923471210391728234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948210470881755136/cIsnCEgI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 89,
+          "like_count": 1632,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 632
+        },
+        "url": "",
+        "username": "muji_4114",
+        "verified": false
+      }
+    ]
+  }
+}

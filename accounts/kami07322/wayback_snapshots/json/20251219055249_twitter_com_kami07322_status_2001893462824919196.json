@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2001855873170444765",
+    "created_at": "2025-12-19T05:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T06:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001893462824919196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1112738127087427584",
+          "start": 0,
+          "username": "KEwM6iwGoqwnGtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001893462824919196",
+    "in_reply_to_user_id": "1112738127087427584",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001877180838740189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KEwM6iwGoqwnGtw 😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2001855873170444765",
+        "created_at": "2025-12-19T05:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T06:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001893462824919196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1112738127087427584",
+              "start": 0,
+              "username": "KEwM6iwGoqwnGtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001893462824919196",
+        "in_reply_to_user_id": "1112738127087427584",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001877180838740189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KEwM6iwGoqwnGtw 😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1112738127087427584",
+        "conversation_id": "2001855873170444765",
+        "created_at": "2025-12-19T04:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001877180838740189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001877180838740189",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001855873170444765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了                                        裏帳@kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33213,
+          "following_count": 22,
+          "like_count": 7624,
+          "listed_count": 35,
+          "media_count": 57,
+          "tweet_count": 2675
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-01T15:26:57.000Z",
+        "description": "已经到顶了",
+        "id": "1112738127087427584",
+        "location": "Toilet",
+        "name": "千早爱丽丝",
+        "pinned_tweet_id": "1963792790879654046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984135985710665729/Ej8EdEay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 735,
+          "like_count": 8185,
+          "listed_count": 8,
+          "media_count": 884,
+          "tweet_count": 15504
+        },
+        "username": "KEwM6iwGoqwnGtw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993590574826561536"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "1993590591008260269",
+    "created_at": "2025-11-26T08:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T09:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993590591008260269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0k3kIvxvO3",
+          "end": 42,
+          "expanded_url": "https://x.com/kami07322/status/1993590591008260269/photo/1",
+          "media_key": "3_1993590574826561536",
+          "start": 19,
+          "url": "https://t.co/0k3kIvxvO3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993590591008260269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我保證我是個惡魔\n只不過偶爾良心發現 https://t.co/0k3kIvxvO3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_1993590574826561536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qoELgaoAA6i1e.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993590574826561536"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1993590591008260269",
+        "created_at": "2025-11-26T08:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993590591008260269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0k3kIvxvO3",
+              "end": 42,
+              "expanded_url": "https://x.com/kami07322/status/1993590591008260269/photo/1",
+              "media_key": "3_1993590574826561536",
+              "start": 19,
+              "url": "https://t.co/0k3kIvxvO3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993590591008260269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我保證我是個惡魔\n只不過偶爾良心發現 https://t.co/0k3kIvxvO3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33625,
+          "following_count": 16,
+          "like_count": 7459,
+          "listed_count": 36,
+          "media_count": 166,
+          "tweet_count": 2689
+        },
+        "username": "kami07322",
+        "verified": false
+      }
+    ]
+  }
+}

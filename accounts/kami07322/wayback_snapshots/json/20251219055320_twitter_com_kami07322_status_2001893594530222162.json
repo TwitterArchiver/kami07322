@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2001855873170444765",
+    "created_at": "2025-12-19T05:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T06:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001893594530222162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820412962479407104",
+          "start": 0,
+          "username": "Enaaaaa0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001893594530222162",
+    "in_reply_to_user_id": "1820412962479407104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001877826316927100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enaaaaa0122 叫媽媽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2001855873170444765",
+        "created_at": "2025-12-19T05:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T06:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001893594530222162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820412962479407104",
+              "start": 0,
+              "username": "Enaaaaa0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001893594530222162",
+        "in_reply_to_user_id": "1820412962479407104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001877826316927100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enaaaaa0122 叫媽媽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820412962479407104",
+        "conversation_id": "2001855873170444765",
+        "created_at": "2025-12-19T04:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001877826316927100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001877826316927100",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001855873170444765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 老公。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了                                        裏帳@kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33213,
+          "following_count": 22,
+          "like_count": 7624,
+          "listed_count": 35,
+          "media_count": 57,
+          "tweet_count": 2676
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-05T10:54:15.000Z",
+        "description": "猫。 ❤️@nimaemegu1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "nimaemegu1019"
+              }
+            ]
+          }
+        },
+        "id": "1820412962479407104",
+        "location": "下水道",
+        "name": "Enaaaaa_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985732994590785536/EbA8djP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 101,
+          "like_count": 2582,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 675
+        },
+        "username": "Enaaaaa0122",
+        "verified": false
+      }
+    ]
+  }
+}

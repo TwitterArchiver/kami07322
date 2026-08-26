@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004383666257186817"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "2004383669100945766",
+    "created_at": "2025-12-26T02:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T03:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004383669100945766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/egJYKIoO7f",
+          "end": 32,
+          "expanded_url": "https://x.com/kami07322/status/2004383669100945766/photo/1",
+          "media_key": "3_2004383666257186817",
+          "start": 9,
+          "url": "https://t.co/egJYKIoO7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004383669100945766",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑顏(¬◡¬)✧ https://t.co/egJYKIoO7f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2004383666257186817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EAUyTa0AE1wI5.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004383666257186817"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "2004383669100945766",
+        "created_at": "2025-12-26T02:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T03:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004383669100945766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/egJYKIoO7f",
+              "end": 32,
+              "expanded_url": "https://x.com/kami07322/status/2004383669100945766/photo/1",
+              "media_key": "3_2004383666257186817",
+              "start": 9,
+              "url": "https://t.co/egJYKIoO7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004383669100945766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑顏(¬◡¬)✧ https://t.co/egJYKIoO7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了               🚪50 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33124,
+          "following_count": 22,
+          "like_count": 7636,
+          "listed_count": 36,
+          "media_count": 53,
+          "tweet_count": 2692
+        },
+        "username": "kami07322",
+        "verified": true
+      }
+    ]
+  }
+}

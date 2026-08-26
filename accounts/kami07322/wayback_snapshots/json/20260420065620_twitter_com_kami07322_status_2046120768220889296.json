@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046120739682869248"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "2046120768220889296",
+    "created_at": "2026-04-20T06:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T07:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046120768220889296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jWHonATrdp",
+          "end": 34,
+          "expanded_url": "https://x.com/kami07322/status/2046120768220889296/photo/1",
+          "media_key": "3_2046120739682869248",
+          "start": 11,
+          "url": "https://t.co/jWHonATrdp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046120768220889296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ⓘ該文案涉神已被處理 https://t.co/jWHonATrdp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046120739682869248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVH-NBbYAAnOG3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046120739682869248"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "2046120768220889296",
+        "created_at": "2026-04-20T06:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046120768220889296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWHonATrdp",
+              "end": 34,
+              "expanded_url": "https://x.com/kami07322/status/2046120768220889296/photo/1",
+              "media_key": "3_2046120739682869248",
+              "start": 11,
+              "url": "https://t.co/jWHonATrdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046120768220889296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ⓘ該文案涉神已被處理 https://t.co/jWHonATrdp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32968,
+          "following_count": 31,
+          "like_count": 7780,
+          "listed_count": 44,
+          "media_count": 70,
+          "tweet_count": 2100
+        },
+        "username": "kami07322",
+        "verified": false
+      }
+    ]
+  }
+}

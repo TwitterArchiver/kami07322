@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2087009596737241339",
+    "created_at": "2026-08-11T03:05:07.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T04:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087012405796798527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819808719108239360",
+          "start": 0,
+          "username": "hieunguyen2373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087012405796798527",
+    "in_reply_to_user_id": "1819808719108239360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087011288325255615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hieunguyen2373 :P 很符合頭像人設"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2087009596737241339",
+        "created_at": "2026-08-11T03:05:07.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T04:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087012405796798527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819808719108239360",
+              "start": 0,
+              "username": "hieunguyen2373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087012405796798527",
+        "in_reply_to_user_id": "1819808719108239360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087011288325255615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hieunguyen2373 :P 很符合頭像人設"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819808719108239360",
+        "conversation_id": "2087009596737241339",
+        "created_at": "2026-08-11T03:00:40.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T04:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087011288325255615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087011288325255615",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087009596737241339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 独眼国王 :D:D:D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087012405796798527",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747931023277502465/1767625354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32908,
+          "following_count": 38,
+          "like_count": 7656,
+          "listed_count": 45,
+          "media_count": 100,
+          "tweet_count": 2045
+        },
+        "url": "",
+        "username": "kami07322",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-03T18:54:39.000Z",
+        "description": "",
+        "id": "1819808719108239360",
+        "is_identity_verified": false,
+        "location": " ",
+        "most_recent_tweet_id": "2087011288325255615",
+        "name": "null",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824898180133298176/VdTTupcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 17,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 8162
+        },
+        "url": "",
+        "username": "hieunguyen2373",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2013787527283458209",
+    "created_at": "2026-01-21T01:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T02:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013787909451849871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963605793577865217",
+          "start": 0,
+          "username": "kami2234523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013787909451849871",
+    "in_reply_to_user_id": "1963605793577865217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013787853176926549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami2234523 小眠💙💙💙"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2013787853176926549].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2013787853176926549",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2013787853176926549"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2013787527283458209",
+        "created_at": "2026-01-21T01:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T02:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013787909451849871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963605793577865217",
+              "start": 0,
+              "username": "kami2234523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013787909451849871",
+        "in_reply_to_user_id": "1963605793577865217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013787853176926549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami2234523 小眠💙💙💙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了               🚪128 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33332,
+          "following_count": 26,
+          "like_count": 7726,
+          "listed_count": 38,
+          "media_count": 39,
+          "tweet_count": 2138
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T14:11:25.000Z",
+        "description": "非人類\n大賬號@kami07322",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "kami07322"
+              }
+            ]
+          }
+        },
+        "id": "1963605793577865217",
+        "location": "虛幻裡世界",
+        "name": "不眠日",
+        "pinned_tweet_id": "1979569615044059382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996056918134263808/fSlcl4E3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 25,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 874
+        },
+        "username": "kami2234523",
+        "verified": false
+      }
+    ]
+  }
+}

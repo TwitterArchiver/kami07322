@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1989236051475599740",
+    "created_at": "2025-11-14T08:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T09:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989250452219916332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820412962479407104",
+          "start": 0,
+          "username": "Enaaaaa0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989250452219916332",
+    "in_reply_to_user_id": "1820412962479407104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989236051475599740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enaaaaa0122 想"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1989236044739571712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5svpK0a8AAdS4l.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1989236051475599740",
+        "created_at": "2025-11-14T08:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989250452219916332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820412962479407104",
+              "start": 0,
+              "username": "Enaaaaa0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989250452219916332",
+        "in_reply_to_user_id": "1820412962479407104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989236051475599740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enaaaaa0122 想"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989236044739571712"
+          ]
+        },
+        "author_id": "1820412962479407104",
+        "conversation_id": "1989236051475599740",
+        "created_at": "2025-11-14T07:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T08:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989236051475599740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqwBuSBxCf",
+              "end": 32,
+              "expanded_url": "https://x.com/Enaaaaa0122/status/1989236051475599740/photo/1",
+              "media_key": "3_1989236044739571712",
+              "start": 9,
+              "url": "https://t.co/EqwBuSBxCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989236051475599740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想我了没有你们。 https://t.co/EqwBuSBxCf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 會陸續清除跟隨 小咪：@mofumofuyewo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "mofumofuyewo"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33679,
+          "following_count": 454,
+          "like_count": 7397,
+          "listed_count": 38,
+          "media_count": 201,
+          "tweet_count": 2720
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-05T10:54:15.000Z",
+        "description": "猫。 ❤️@nimaemegu1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "nimaemegu1019"
+              }
+            ]
+          }
+        },
+        "id": "1820412962479407104",
+        "location": "下水道",
+        "name": "Enaaaaa_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985732994590785536/EbA8djP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 95,
+          "like_count": 2467,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 589
+        },
+        "username": "Enaaaaa0122",
+        "verified": false
+      }
+    ]
+  }
+}

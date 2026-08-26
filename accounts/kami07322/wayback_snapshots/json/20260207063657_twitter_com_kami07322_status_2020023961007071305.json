@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2019626527860879526",
+    "created_at": "2026-02-07T06:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T07:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020023961007071305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820412962479407104",
+          "start": 0,
+          "username": "Enaaaaa0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020023961007071305",
+    "in_reply_to_user_id": "1820412962479407104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019729601392689272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enaaaaa0122 喵呀～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2019626527860879526",
+        "created_at": "2026-02-07T06:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020023961007071305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820412962479407104",
+              "start": 0,
+              "username": "Enaaaaa0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020023961007071305",
+        "in_reply_to_user_id": "1820412962479407104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019729601392689272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enaaaaa0122 喵呀～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820412962479407104",
+        "conversation_id": "2019626527860879526",
+        "created_at": "2026-02-06T11:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019729601392689272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019729601392689272",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019626527860879526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 萌呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了               🚪128 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33229,
+          "following_count": 27,
+          "like_count": 7709,
+          "listed_count": 40,
+          "media_count": 44,
+          "tweet_count": 2149
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T10:54:15.000Z",
+        "description": "猫。 ❤️@nimaemegu1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "nimaemegu1019"
+              }
+            ]
+          }
+        },
+        "id": "1820412962479407104",
+        "location": "下水道",
+        "name": "Enaaaaa_",
+        "pinned_tweet_id": "2002241765886382083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985732994590785536/EbA8djP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 107,
+          "like_count": 2682,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 708
+        },
+        "username": "Enaaaaa0122",
+        "verified": false
+      }
+    ]
+  }
+}

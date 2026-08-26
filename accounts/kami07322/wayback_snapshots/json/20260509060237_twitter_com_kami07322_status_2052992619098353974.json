@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052992608625184768"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "2052992619098353974",
+    "created_at": "2026-05-09T06:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052992619098353974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rRNNzwJUzB",
+          "end": 36,
+          "expanded_url": "https://x.com/kami07322/status/2052992619098353974/photo/1",
+          "media_key": "3_2052992608625184768",
+          "start": 13,
+          "url": "https://t.co/rRNNzwJUzB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052992619098353974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "臣服於黑貓大人orz—— https://t.co/rRNNzwJUzB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052992608625184768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2x5nubUAA00m8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052992608625184768"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "2052992619098353974",
+        "created_at": "2026-05-09T06:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052992619098353974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rRNNzwJUzB",
+              "end": 36,
+              "expanded_url": "https://x.com/kami07322/status/2052992619098353974/photo/1",
+              "media_key": "3_2052992608625184768",
+              "start": 13,
+              "url": "https://t.co/rRNNzwJUzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052992619098353974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臣服於黑貓大人orz—— https://t.co/rRNNzwJUzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33531,
+          "following_count": 33,
+          "like_count": 7801,
+          "listed_count": 46,
+          "media_count": 76,
+          "tweet_count": 2114
+        },
+        "username": "kami07322",
+        "verified": false
+      }
+    ]
+  }
+}

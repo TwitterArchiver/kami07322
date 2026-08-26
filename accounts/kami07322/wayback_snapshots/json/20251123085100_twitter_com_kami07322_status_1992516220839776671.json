@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1992473570090578054",
+    "created_at": "2025-11-23T08:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T09:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992516220839776671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821591157866164227",
+          "start": 0,
+          "username": "Oakland_714"
+        },
+        {
+          "end": 25,
+          "id": "1820412962479407104",
+          "start": 13,
+          "username": "Enaaaaa0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992516220839776671",
+    "in_reply_to_user_id": "1821591157866164227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992505250075529445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oakland_714 @Enaaaaa0122 謝謝ww💙💙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1992473570090578054",
+        "created_at": "2025-11-23T08:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T09:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992516220839776671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821591157866164227",
+              "start": 0,
+              "username": "Oakland_714"
+            },
+            {
+              "end": 25,
+              "id": "1820412962479407104",
+              "start": 13,
+              "username": "Enaaaaa0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992516220839776671",
+        "in_reply_to_user_id": "1821591157866164227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992505250075529445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oakland_714 @Enaaaaa0122 謝謝ww💙💙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821591157866164227",
+        "conversation_id": "1992473570090578054",
+        "created_at": "2025-11-23T08:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T09:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992505250075529445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            },
+            {
+              "end": 23,
+              "id": "1820412962479407104",
+              "start": 11,
+              "username": "Enaaaaa0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992505250075529445",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992473570090578054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 @Enaaaaa0122 两个好萌的宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33478,
+          "following_count": 12,
+          "like_count": 7425,
+          "listed_count": 36,
+          "media_count": 165,
+          "tweet_count": 2696
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T16:56:01.000Z",
+        "description": "🐱｜INTJ-T｜纯女同 ｜某美院在读 具体哪个我不想说",
+        "id": "1821591157866164227",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "口水猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989266888313237504/yhSCUWVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 123,
+          "like_count": 7611,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 929
+        },
+        "username": "Oakland_714",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T10:54:15.000Z",
+        "description": "猫。 ❤️@nimaemegu1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "nimaemegu1019"
+              }
+            ]
+          }
+        },
+        "id": "1820412962479407104",
+        "location": "下水道",
+        "name": "Enaaaaa_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985732994590785536/EbA8djP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 99,
+          "like_count": 2505,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 616
+        },
+        "username": "Enaaaaa0122",
+        "verified": false
+      }
+    ]
+  }
+}

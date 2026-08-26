@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2046075934328193329",
+    "created_at": "2026-04-20T04:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046078523312648214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "864058684178972672",
+          "start": 0,
+          "username": "e_tllt_enew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046078523312648214",
+    "in_reply_to_user_id": "864058684178972672",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046077120972272124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e_tllt_enew ( ̀⌄ ́)💙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2046075934328193329",
+        "created_at": "2026-04-20T04:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046078523312648214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "864058684178972672",
+              "start": 0,
+              "username": "e_tllt_enew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046078523312648214",
+        "in_reply_to_user_id": "864058684178972672",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046077120972272124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e_tllt_enew ( ̀⌄ ́)💙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "864058684178972672",
+        "conversation_id": "2046075934328193329",
+        "created_at": "2026-04-20T04:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046077120972272124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046077120972272124",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046075934328193329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 可愛い手だ♥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32973,
+          "following_count": 31,
+          "like_count": 7778,
+          "listed_count": 44,
+          "media_count": 69,
+          "tweet_count": 2099
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-15T10:03:38.000Z",
+        "description": "手と足がキレイな人フォローします。🙇ツイッター初心者です🙋肉好きです🤤",
+        "id": "864058684178972672",
+        "name": "エーテルは手フェチ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1056530602109788162/yJWDn8ZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 289,
+          "like_count": 6325,
+          "listed_count": 17,
+          "media_count": 34,
+          "tweet_count": 9828
+        },
+        "username": "e_tllt_enew",
+        "verified": false
+      }
+    ]
+  }
+}

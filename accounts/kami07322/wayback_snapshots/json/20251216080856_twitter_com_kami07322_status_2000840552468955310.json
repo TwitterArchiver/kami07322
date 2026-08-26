@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2000747059796955533",
+    "created_at": "2025-12-16T08:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T09:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000840552468955310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1799294512474333184",
+          "start": 0,
+          "username": "hsj100096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000840552468955310",
+    "in_reply_to_user_id": "1799294512474333184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000771959789875308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsj100096 我也喜歡黑岩射手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2000747059796955533",
+        "created_at": "2025-12-16T08:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000840552468955310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1799294512474333184",
+              "start": 0,
+              "username": "hsj100096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000840552468955310",
+        "in_reply_to_user_id": "1799294512474333184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000771959789875308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsj100096 我也喜歡黑岩射手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799294512474333184",
+        "conversation_id": "2000747059796955533",
+        "created_at": "2025-12-16T03:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T04:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000771959789875308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000771959789875308",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000747059796955533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 黑岩射手海绵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了                                        裏帳@kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33298,
+          "following_count": 22,
+          "like_count": 7606,
+          "listed_count": 35,
+          "media_count": 55,
+          "tweet_count": 2666
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-08T04:17:06.000Z",
+        "description": "爱好罢了，给我打钱的最牛逼 @kazankin10096(←无聊的碎碎念)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "kazankin10096"
+              }
+            ]
+          }
+        },
+        "id": "1799294512474333184",
+        "location": "停尸间",
+        "name": "火烧鸡巴",
+        "pinned_tweet_id": "1814156397803704569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932841260261294080/FD9T1WjU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2920,
+          "following_count": 1082,
+          "like_count": 13506,
+          "listed_count": 4,
+          "media_count": 293,
+          "tweet_count": 4341
+        },
+        "username": "hsj100096",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1989435045019566205",
+    "created_at": "2025-11-14T20:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T21:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989435045019566205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayguest1578/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ayguest1578/status/1989328856801493055",
+          "start": 14,
+          "url": "https://t.co/NIUA41oyok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989435045019566205",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989328856801493055",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "退的一萬步夠你退出生物圈了 https://t.co/NIUA41oyok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1989435045019566205",
+        "created_at": "2025-11-14T20:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T21:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989435045019566205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayguest1578/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ayguest1578/status/1989328856801493055",
+              "start": 14,
+              "url": "https://t.co/NIUA41oyok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989435045019566205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989328856801493055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "退的一萬步夠你退出生物圈了 https://t.co/NIUA41oyok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728614184319942656",
+        "conversation_id": "1989171093106765895",
+        "created_at": "2025-11-14T13:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989328856801493055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "78191516",
+              "start": 0,
+              "username": "tindingtin"
+            },
+            {
+              "end": 25,
+              "id": "1622255626066731010",
+              "start": 12,
+              "username": "SagerRgyalpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989328856801493055",
+        "in_reply_to_user_id": "78191516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 892,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989291768211489213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tindingtin @SagerRgyalpo 那退一万步说就算是偷拍又怎样？织女偷拍帅哥的还少？要是一个男的因为被偷拍了到网上发声估计早被织女冲烂了吧，现在还当理中客干嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 會陸續清除跟隨 小咪：@mofumofuyewo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "mofumofuyewo"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33691,
+          "following_count": 423,
+          "like_count": 7405,
+          "listed_count": 38,
+          "media_count": 201,
+          "tweet_count": 2723
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-26T03:19:09.000Z",
+        "description": "织䖡关注评论私信我，妳全家䖡性丝绝不得超生",
+        "id": "1728614184319942656",
+        "name": "mater lines（嫜嫏尽灭版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731505456500129793/qIRTcjcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 116,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 148
+        },
+        "username": "AYGUest1578",
+        "verified": false
+      }
+    ]
+  }
+}

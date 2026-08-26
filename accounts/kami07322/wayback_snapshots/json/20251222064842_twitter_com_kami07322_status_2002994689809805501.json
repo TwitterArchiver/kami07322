@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2002936657902018917",
+    "created_at": "2025-12-22T06:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T07:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002994689809805501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662733551199227905",
+          "start": 0,
+          "username": "yuyuyu_ufh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002994689809805501",
+    "in_reply_to_user_id": "1662733551199227905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002994382912606587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuyu_ufh 乾脆沒管了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2002936657902018917",
+        "created_at": "2025-12-22T06:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002994689809805501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662733551199227905",
+              "start": 0,
+              "username": "yuyuyu_ufh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002994689809805501",
+        "in_reply_to_user_id": "1662733551199227905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002994382912606587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuyu_ufh 乾脆沒管了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662733551199227905",
+        "conversation_id": "2002936657902018917",
+        "created_at": "2025-12-22T06:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002994382912606587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002994382912606587",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002936657902018917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 好酷但是感觉很难清理的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了                                        裏帳@kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33141,
+          "following_count": 22,
+          "like_count": 7600,
+          "listed_count": 36,
+          "media_count": 52,
+          "tweet_count": 2676
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-28T08:12:38.000Z",
+        "description": "九是⑨的9，\n\n喜欢猫猫和狗狗还有🦝，音楽と文学，碎碎念。并非纯良",
+        "id": "1662733551199227905",
+        "location": "幻想鄉",
+        "name": "上野川凛",
+        "pinned_tweet_id": "1981718921691447511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954466460073684992/h-ejsgCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 670,
+          "like_count": 15409,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1745
+        },
+        "username": "yuyuyu_ufh",
+        "verified": false
+      }
+    ]
+  }
+}

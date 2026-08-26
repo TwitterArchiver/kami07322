@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023264469749727232"
+      ],
+      "media_source_tweet_id": [
+        "2023264474220966035"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      }
+    ],
+    "conversation_id": "2023640002622816258",
+    "created_at": "2026-02-17T06:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T07:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023640002622816258"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "イラスト"
+        },
+        {
+          "end": 50,
+          "start": 37,
+          "tag": "illumination"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1861690479500500992",
+          "start": 3,
+          "username": "Szz_000"
+        },
+        {
+          "end": 26,
+          "id": "1747931023277502465",
+          "start": 16,
+          "username": "kami07322"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MKCm5aEBRK",
+          "end": 74,
+          "expanded_url": "https://x.com/Szz_000/status/2023264474220966035/photo/1",
+          "media_key": "3_2023264469749727232",
+          "start": 51,
+          "url": "https://t.co/MKCm5aEBRK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023640002622816258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023264474220966035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Szz_000: 推し(@kami07322 )です\n#イラスト #illumination https://t.co/MKCm5aEBRK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1057,
+        "media_key": "3_2023264469749727232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQUUMYaAAAqDk8.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023264469749727232"
+          ],
+          "media_source_tweet_id": [
+            "2023264474220966035"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "2023640002622816258",
+        "created_at": "2026-02-17T06:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T07:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023640002622816258"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "イラスト"
+            },
+            {
+              "end": 50,
+              "start": 37,
+              "tag": "illumination"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1861690479500500992",
+              "start": 3,
+              "username": "Szz_000"
+            },
+            {
+              "end": 26,
+              "id": "1747931023277502465",
+              "start": 16,
+              "username": "kami07322"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKCm5aEBRK",
+              "end": 74,
+              "expanded_url": "https://x.com/Szz_000/status/2023264474220966035/photo/1",
+              "media_key": "3_2023264469749727232",
+              "start": 51,
+              "url": "https://t.co/MKCm5aEBRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023640002622816258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023264474220966035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Szz_000: 推し(@kami07322 )です\n#イラスト #illumination https://t.co/MKCm5aEBRK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023264469749727232"
+          ]
+        },
+        "author_id": "1861690479500500992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2023264474220966035",
+        "created_at": "2026-02-16T05:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023264474220966035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "イラスト"
+            },
+            {
+              "end": 37,
+              "start": 24,
+              "tag": "illumination"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1747931023277502465",
+              "start": 3,
+              "username": "kami07322"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKCm5aEBRK",
+              "end": 61,
+              "expanded_url": "https://x.com/Szz_000/status/2023264474220966035/photo/1",
+              "media_key": "3_2023264469749727232",
+              "start": 38,
+              "url": "https://t.co/MKCm5aEBRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023264474220966035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 578,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "推し(@kami07322 )です\n#イラスト #illumination https://t.co/MKCm5aEBRK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33157,
+          "following_count": 29,
+          "like_count": 7743,
+          "listed_count": 41,
+          "media_count": 46,
+          "tweet_count": 2165
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-27T08:36:32.000Z",
+        "description": "illust",
+        "id": "1861690479500500992",
+        "name": "さざザ",
+        "pinned_tweet_id": "2005269961741394236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956194037607882753/7j6vmBS8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 40,
+          "like_count": 1133,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 131
+        },
+        "username": "Szz_000",
+        "verified": false
+      }
+    ]
+  }
+}

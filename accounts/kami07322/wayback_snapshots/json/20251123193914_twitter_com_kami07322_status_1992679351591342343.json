@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1992473570090578054",
+    "created_at": "2025-11-23T19:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T20:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992679351591342343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820664592294694912",
+          "start": 0,
+          "username": "hoshinohatsuka"
+        },
+        {
+          "end": 28,
+          "id": "1820412962479407104",
+          "start": 16,
+          "username": "Enaaaaa0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992679351591342343",
+    "in_reply_to_user_id": "1820664592294694912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992565783973830772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinohatsuka @Enaaaaa0122 謝謝～💙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1992473570090578054",
+        "created_at": "2025-11-23T19:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T20:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992679351591342343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820664592294694912",
+              "start": 0,
+              "username": "hoshinohatsuka"
+            },
+            {
+              "end": 28,
+              "id": "1820412962479407104",
+              "start": 16,
+              "username": "Enaaaaa0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992679351591342343",
+        "in_reply_to_user_id": "1820664592294694912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992565783973830772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinohatsuka @Enaaaaa0122 謝謝～💙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820664592294694912",
+        "conversation_id": "1992473570090578054",
+        "created_at": "2025-11-23T12:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992565783973830772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            },
+            {
+              "end": 23,
+              "id": "1820412962479407104",
+              "start": 11,
+              "username": "Enaaaaa0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992565783973830772",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992473570090578054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 @Enaaaaa0122 好可爱(*￣3￣)╭♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33551,
+          "following_count": 13,
+          "like_count": 7431,
+          "listed_count": 36,
+          "media_count": 165,
+          "tweet_count": 2700
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T03:34:23.000Z",
+        "description": "欢迎关注晓晓奇妙杂货铺",
+        "id": "1820664592294694912",
+        "name": "晓晓奇妙杂货铺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992554531352350720/BeU815M6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 241,
+          "like_count": 1760,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 107
+        },
+        "username": "hoshinohatsuka",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T10:54:15.000Z",
+        "description": "猫。 ❤️@nimaemegu1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "nimaemegu1019"
+              }
+            ]
+          }
+        },
+        "id": "1820412962479407104",
+        "location": "下水道",
+        "name": "Enaaaaa_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985732994590785536/EbA8djP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 99,
+          "like_count": 2510,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 621
+        },
+        "username": "Enaaaaa0122",
+        "verified": false
+      }
+    ]
+  }
+}

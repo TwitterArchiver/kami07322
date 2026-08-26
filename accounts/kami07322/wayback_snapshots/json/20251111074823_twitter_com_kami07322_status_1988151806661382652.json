@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1988146628658864374",
+    "created_at": "2025-11-11T07:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T08:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988151806661382652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1277261255523303424",
+          "start": 0,
+          "username": "MMPIvMW3bF5Iqng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988151806661382652",
+    "in_reply_to_user_id": "1277261255523303424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988149761523028409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMPIvMW3bF5Iqng 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1988146628658864374",
+        "created_at": "2025-11-11T07:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T08:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988151806661382652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1277261255523303424",
+              "start": 0,
+              "username": "MMPIvMW3bF5Iqng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988151806661382652",
+        "in_reply_to_user_id": "1277261255523303424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988149761523028409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMPIvMW3bF5Iqng 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277261255523303424",
+        "conversation_id": "1988146628658864374",
+        "created_at": "2025-11-11T07:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T08:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988149761523028409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988149761523028409",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988146628658864374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 这鱼有点抽象了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 會陸續清除跟隨",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33685,
+          "following_count": 730,
+          "like_count": 7381,
+          "listed_count": 38,
+          "media_count": 214,
+          "tweet_count": 2719
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-28T15:23:23.000Z",
+        "description": "no kiss ,no kiss,no kiss",
+        "id": "1277261255523303424",
+        "name": "怡口糖三包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793602689252904960/Jq3_SKlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 439,
+          "like_count": 7311,
+          "listed_count": 7,
+          "media_count": 353,
+          "tweet_count": 27603
+        },
+        "username": "MMPIvMW3bF5Iqng",
+        "verified": false
+      }
+    ]
+  }
+}

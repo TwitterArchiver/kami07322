@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1988937039178527066",
+    "created_at": "2025-11-14T08:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T09:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989245371831447827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1948761456058793986",
+          "start": 0,
+          "username": "Jules0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989245371831447827",
+    "in_reply_to_user_id": "1948761456058793986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989145664543150081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jules0v0 我拼多多隨便買滴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1988937039178527066",
+        "created_at": "2025-11-14T08:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989245371831447827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1948761456058793986",
+              "start": 0,
+              "username": "Jules0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989245371831447827",
+        "in_reply_to_user_id": "1948761456058793986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989145664543150081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jules0v0 我拼多多隨便買滴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948761456058793986",
+        "conversation_id": "1988937039178527066",
+        "created_at": "2025-11-14T01:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T02:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989145664543150081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989145664543150081",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988937039178527066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 小宝宝想要睡衣链接！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 會陸續清除跟隨 小咪：@mofumofuyewo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "mofumofuyewo"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33678,
+          "following_count": 478,
+          "like_count": 7396,
+          "listed_count": 38,
+          "media_count": 201,
+          "tweet_count": 2719
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-25T15:05:24.000Z",
+        "description": "💤投喂石榴汁解锁Raffi日常欢迎互fo喵",
+        "id": "1948761456058793986",
+        "location": "降临于你的手心",
+        "name": "Raffi纳菲",
+        "pinned_tweet_id": "1985797056385208774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982100098856157184/PMrWOQPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 13,
+          "like_count": 373,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 245
+        },
+        "username": "Jules0v0",
+        "verified": false
+      }
+    ]
+  }
+}

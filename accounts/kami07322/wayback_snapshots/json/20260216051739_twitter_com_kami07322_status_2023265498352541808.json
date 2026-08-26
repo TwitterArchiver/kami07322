@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2023264474220966035",
+    "created_at": "2026-02-16T05:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T06:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023265498352541808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1861690479500500992",
+          "start": 0,
+          "username": "Szz_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023265498352541808",
+    "in_reply_to_user_id": "1861690479500500992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023264474220966035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Szz_000 太好了_(•̀ω•́ 」∠)_辛苦了～!\n想不到你還記得我帶蝴蝶結的那個時期哈哈哈☺️💙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1057,
+        "media_key": "3_2023264469749727232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQUUMYaAAAqDk8.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2023264474220966035",
+        "created_at": "2026-02-16T05:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023265498352541808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1861690479500500992",
+              "start": 0,
+              "username": "Szz_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023265498352541808",
+        "in_reply_to_user_id": "1861690479500500992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023264474220966035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Szz_000 太好了_(•̀ω•́ 」∠)_辛苦了～!\n想不到你還記得我帶蝴蝶結的那個時期哈哈哈☺️💙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023264469749727232"
+          ]
+        },
+        "author_id": "1861690479500500992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2023264474220966035",
+        "created_at": "2026-02-16T05:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023264474220966035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "イラスト"
+            },
+            {
+              "end": 37,
+              "start": 24,
+              "tag": "illumination"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1747931023277502465",
+              "start": 3,
+              "username": "kami07322"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKCm5aEBRK",
+              "end": 61,
+              "expanded_url": "https://x.com/Szz_000/status/2023264474220966035/photo/1",
+              "media_key": "3_2023264469749727232",
+              "start": 38,
+              "url": "https://t.co/MKCm5aEBRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023264474220966035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推し(@kami07322 )です\n#イラスト #illumination https://t.co/MKCm5aEBRK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33172,
+          "following_count": 29,
+          "like_count": 7736,
+          "listed_count": 41,
+          "media_count": 46,
+          "tweet_count": 2163
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-27T08:36:32.000Z",
+        "description": "illust",
+        "id": "1861690479500500992",
+        "name": "さざザ",
+        "pinned_tweet_id": "2005269961741394236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956194037607882753/7j6vmBS8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 39,
+          "like_count": 1114,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 127
+        },
+        "username": "Szz_000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059923014943449088"
+      ],
+      "media_source_tweet_id": [
+        "2059923076855591104"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060209223750025379",
+    "created_at": "2026-05-29T03:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060209223750025379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1861690479500500992",
+          "start": 3,
+          "username": "Szz_000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J7L4kOBtAI",
+          "end": 38,
+          "expanded_url": "https://x.com/Szz_000/status/2059923076855591104/video/1",
+          "media_key": "13_2059923014943449088",
+          "start": 15,
+          "url": "https://t.co/J7L4kOBtAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060209223750025379",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059923076855591104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Szz_000: 💙 https://t.co/J7L4kOBtAI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7750,
+        "height": 1280,
+        "media_key": "13_2059923014943449088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059923014943449088/img/nBpnm-mo1FyW79Ez.jpg",
+        "public_metrics": {
+          "view_count": 26
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059923014943449088/vid/avc1/320x694/6KU5SgVoS8xOBimh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059923014943449088/vid/avc1/480x1040/WKHS69SxvpJKitMq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059923014943449088/vid/avc1/590x1280/RU7XB_exjlIy8wLI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059923014943449088/pl/3gWsizus-B-2FV-y.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059923014943449088"
+          ],
+          "media_source_tweet_id": [
+            "2059923076855591104"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060209223750025379",
+        "created_at": "2026-05-29T03:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060209223750025379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1861690479500500992",
+              "start": 3,
+              "username": "Szz_000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7L4kOBtAI",
+              "end": 38,
+              "expanded_url": "https://x.com/Szz_000/status/2059923076855591104/video/1",
+              "media_key": "13_2059923014943449088",
+              "start": 15,
+              "url": "https://t.co/J7L4kOBtAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060209223750025379",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059923076855591104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Szz_000: 💙 https://t.co/J7L4kOBtAI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059923014943449088"
+          ]
+        },
+        "author_id": "1861690479500500992",
+        "conversation_id": "2059923076855591104",
+        "created_at": "2026-05-28T09:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059923076855591104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7L4kOBtAI",
+              "end": 25,
+              "expanded_url": "https://x.com/Szz_000/status/2059923076855591104/video/1",
+              "media_key": "13_2059923014943449088",
+              "start": 2,
+              "url": "https://t.co/J7L4kOBtAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059923076855591104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 81,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💙 https://t.co/J7L4kOBtAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33340,
+          "following_count": 33,
+          "like_count": 7781,
+          "listed_count": 45,
+          "media_count": 81,
+          "tweet_count": 2120
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-27T08:36:32.000Z",
+        "description": "illust / https://t.co/lRhzcsaDzl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Szz000",
+                "end": 32,
+                "expanded_url": "https://skeb.jp/@Szz000",
+                "start": 9,
+                "url": "https://t.co/lRhzcsaDzl"
+              }
+            ]
+          }
+        },
+        "id": "1861690479500500992",
+        "name": "さざザ",
+        "pinned_tweet_id": "2005114513205661861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956194037607882753/7j6vmBS8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 59,
+          "like_count": 1767,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 149
+        },
+        "username": "Szz_000",
+        "verified": false
+      }
+    ]
+  }
+}

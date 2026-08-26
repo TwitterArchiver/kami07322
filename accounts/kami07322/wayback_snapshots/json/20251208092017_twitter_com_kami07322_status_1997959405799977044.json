@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1997934846145171814",
+    "created_at": "2025-12-08T09:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T10:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997959405799977044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1710281671881396224",
+          "start": 0,
+          "username": "wnsyn33985"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997959405799977044",
+    "in_reply_to_user_id": "1710281671881396224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997957005810754023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnsyn33985 😌💙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1997934846145171814",
+        "created_at": "2025-12-08T09:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997959405799977044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1710281671881396224",
+              "start": 0,
+              "username": "wnsyn33985"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997959405799977044",
+        "in_reply_to_user_id": "1710281671881396224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997957005810754023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnsyn33985 😌💙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710281671881396224",
+        "conversation_id": "1997934846145171814",
+        "created_at": "2025-12-08T09:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997957005810754023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997957005810754023",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997934846145171814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 請收下我的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了                                        裏帳@kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33516,
+          "following_count": 20,
+          "like_count": 7588,
+          "listed_count": 36,
+          "media_count": 89,
+          "tweet_count": 2674
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-06T13:11:59.000Z",
+        "description": "文字的迷人之處，在於窺探人性真實下的黑暗。\n#文字帳 #刺青 #穿環 #與常理漸行漸遠的旅人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 22,
+                "tag": "文字帳"
+              },
+              {
+                "end": 30,
+                "start": 27,
+                "tag": "刺青"
+              },
+              {
+                "end": 34,
+                "start": 31,
+                "tag": "穿環"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "tag": "與常理漸行漸遠的旅人"
+              }
+            ]
+          }
+        },
+        "id": "1710281671881396224",
+        "location": "虛無",
+        "name": "Lotus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989325812982792192/G8DotoI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 218
+        },
+        "username": "wnsyn33985",
+        "verified": false
+      }
+    ]
+  }
+}

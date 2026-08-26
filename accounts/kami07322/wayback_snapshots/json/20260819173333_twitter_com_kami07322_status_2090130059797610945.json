@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2090128676604330024",
+    "created_at": "2026-08-19T17:33:33.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090130059797610945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2064542363595493376",
+          "start": 0,
+          "username": "ToriNoelle003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090130059797610945",
+    "in_reply_to_user_id": "2064542363595493376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090128676604330024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToriNoelle003 你的咪咪頭看著很悲傷😞"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4945,
+        "height": 1270,
+        "media_key": "13_2090128540847198208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090128540847198208/img/5nJV3xT_x5C8OjN6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090128540847198208/vid/avc1/320x564/s3wOQD8NwfIcZrQ3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090128540847198208/vid/avc1/480x846/KhtjuaTQpUv00e14.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090128540847198208/vid/avc1/720x1270/QGQyPCz-ObI9CccE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090128540847198208/pl/mBVARl0Mf41MPH2x.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2090128676604330024",
+        "created_at": "2026-08-19T17:33:33.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090130059797610945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2064542363595493376",
+              "start": 0,
+              "username": "ToriNoelle003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090130059797610945",
+        "in_reply_to_user_id": "2064542363595493376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090128676604330024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToriNoelle003 你的咪咪頭看著很悲傷😞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090128540847198208"
+          ]
+        },
+        "author_id": "2064542363595493376",
+        "conversation_id": "2090128676604330024",
+        "created_at": "2026-08-19T17:28:03.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090128676604330024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3L1ZMYDNyI",
+              "end": 31,
+              "expanded_url": "https://x.com/ToriNoelle003/status/2090128676604330024/video/1",
+              "media_key": "13_2090128540847198208",
+              "start": 8,
+              "url": "https://t.co/3L1ZMYDNyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090128676604330024",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090128540847198208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "10港幣好用。 https://t.co/3L1ZMYDNyI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090130059797610945",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747931023277502465/1767625354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32820,
+          "following_count": 39,
+          "like_count": 7673,
+          "listed_count": 45,
+          "media_count": 102,
+          "tweet_count": 2049
+        },
+        "url": "",
+        "username": "kami07322",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-10T02:58:59.000Z",
+        "description": "“為遠去的鳥兒獻上革命的花朵。”\n（前世@DKR_World）同類互fo大歡迎！\n🚪52/101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "DKR_World"
+              }
+            ]
+          }
+        },
+        "id": "2064542363595493376",
+        "is_identity_verified": false,
+        "location": "東京暴動革命支部",
+        "most_recent_tweet_id": "2090128676604330024",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2085343225972244522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064542363595493376/1783695885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064542992820830208/n5svD8S2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 148,
+          "like_count": 3056,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "ToriNoelle003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

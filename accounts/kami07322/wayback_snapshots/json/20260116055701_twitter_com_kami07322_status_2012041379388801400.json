@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2012040627735933038",
+    "created_at": "2026-01-16T05:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T06:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012041379388801400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012041379388801400",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012040937002901622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 按照小戀寶寶的說法調了一下 感覺確實好了很多！╮(‵▽′)╭小戀大功臣👑💙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2012040627735933038",
+        "created_at": "2026-01-16T05:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T06:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012041379388801400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012041379388801400",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012040937002901622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 按照小戀寶寶的說法調了一下 感覺確實好了很多！╮(‵▽′)╭小戀大功臣👑💙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094329954652161",
+        "conversation_id": "2012040627735933038",
+        "created_at": "2026-01-16T05:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T06:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012040937002901622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012040937002901622",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012040627735933038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 完完全全超萌神明大人😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了               🚪128 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33353,
+          "following_count": 26,
+          "like_count": 7721,
+          "listed_count": 38,
+          "media_count": 37,
+          "tweet_count": 2131
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "=れん/Rayne/小恋～北京07年155/82 爱装可爱的*🎀#垂耳兔偶像姫様🎀* ｜不定期直播，欢迎点歌！主页也有回放哦～｜🚪88=回信息+ 可线下🩶很活泼请约我玩૮꒰ ˃̵͈᷄ ﻌ ˂̵͈᷅ ꒱ა!!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "垂耳兔偶像姫様"
+              }
+            ]
+          }
+        },
+        "id": "1522094329954652161",
+        "location": "💌线下纯绿166/h 半绿入门咨询哦",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "2011381150766506484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008220155432857601/hiAEJNwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19013,
+          "following_count": 397,
+          "like_count": 14131,
+          "listed_count": 32,
+          "media_count": 1079,
+          "tweet_count": 11673
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

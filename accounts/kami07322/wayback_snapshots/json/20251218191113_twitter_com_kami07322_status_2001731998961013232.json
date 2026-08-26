@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001728007845601280",
+        "3_2001728009749803008"
+      ],
+      "media_source_tweet_id": [
+        "2001728017777741940",
+        "2001728017777741940"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "2001731998961013232",
+    "created_at": "2025-12-18T19:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T20:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001731998961013232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881414347072950273",
+          "start": 3,
+          "username": "J4YDENNN"
+        },
+        {
+          "end": 41,
+          "id": "1747931023277502465",
+          "start": 31,
+          "username": "kami07322"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fysNMF1QWj",
+          "end": 84,
+          "expanded_url": "https://x.com/J4YDENNN/status/2001728017777741940/photo/1",
+          "media_key": "3_2001728007845601280",
+          "start": 61,
+          "url": "https://t.co/fysNMF1QWj"
+        },
+        {
+          "display_url": "pic.x.com/fysNMF1QWj",
+          "end": 84,
+          "expanded_url": "https://x.com/J4YDENNN/status/2001728017777741940/photo/1",
+          "media_key": "3_2001728009749803008",
+          "start": 61,
+          "url": "https://t.co/fysNMF1QWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001731998961013232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001728017777741940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @J4YDENNN: 虽然翻译可能不太好，但试着画一下 @kami07322 \n我爱你，请不要秃顶。( =＾ω＾) https://t.co/fysNMF1QWj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001731998961013232].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001731998961013232",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001731998961013232"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2001728007845601280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8eRBHyWYAAD1Yr.jpg",
+        "width": 768
+      },
+      {
+        "height": 1508,
+        "media_key": "3_2001728009749803008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8eRBO4WMAAektv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001728007845601280",
+            "3_2001728009749803008"
+          ]
+        },
+        "author_id": "1881414347072950273",
+        "conversation_id": "2001728017777741940",
+        "created_at": "2025-12-18T18:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T19:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001728017777741940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1747931023277502465",
+              "start": 17,
+              "username": "kami07322"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fysNMF1QWj",
+              "end": 70,
+              "expanded_url": "https://x.com/J4YDENNN/status/2001728017777741940/photo/1",
+              "media_key": "3_2001728007845601280",
+              "start": 47,
+              "url": "https://t.co/fysNMF1QWj"
+            },
+            {
+              "display_url": "pic.x.com/fysNMF1QWj",
+              "end": 70,
+              "expanded_url": "https://x.com/J4YDENNN/status/2001728017777741940/photo/1",
+              "media_key": "3_2001728009749803008",
+              "start": 47,
+              "url": "https://t.co/fysNMF1QWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001728017777741940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "虽然翻译可能不太好，但试着画一下 @kami07322 \n我爱你，请不要秃顶。( =＾ω＾) https://t.co/fysNMF1QWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了                                        裏帳@kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33270,
+          "following_count": 22,
+          "like_count": 7614,
+          "listed_count": 35,
+          "media_count": 56,
+          "tweet_count": 2672
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-20T18:52:10.000Z",
+        "description": "ig: migajerwmierdos0\n#shtwtt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 21,
+                "tag": "shtwtt"
+              }
+            ]
+          }
+        },
+        "id": "1881414347072950273",
+        "name": "IBUPROFENO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001119394458451969/DKvBQhD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 128,
+          "like_count": 4753,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 975
+        },
+        "username": "J4YDENNN",
+        "verified": false
+      }
+    ]
+  }
+}

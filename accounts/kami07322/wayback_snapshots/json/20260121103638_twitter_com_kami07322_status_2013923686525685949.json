@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2013787527283458209",
+    "created_at": "2026-01-21T10:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T11:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013923686525685949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1984978233310474240",
+          "start": 0,
+          "username": "033_lilihasinda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013923686525685949",
+    "in_reply_to_user_id": "1984978233310474240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013889927235137701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@033_lilihasinda 謝謝～💙💙💙🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2013787527283458209",
+        "created_at": "2026-01-21T10:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013923686525685949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1984978233310474240",
+              "start": 0,
+              "username": "033_lilihasinda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013923686525685949",
+        "in_reply_to_user_id": "1984978233310474240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013889927235137701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@033_lilihasinda 謝謝～💙💙💙🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984978233310474240",
+        "conversation_id": "2013787527283458209",
+        "created_at": "2026-01-21T08:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T09:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013889927235137701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013889927235137701",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013787527283458209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 很可愛💙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了               🚪128 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33357,
+          "following_count": 26,
+          "like_count": 7725,
+          "listed_count": 39,
+          "media_count": 39,
+          "tweet_count": 2139
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:38:38.000Z",
+        "description": "璃澄 りりって呼んでいいよ | タイ人 | 日本語勉強中、EN / ไทย はOKです！ 🐟 メンヘラ || risumi, lili / he,she (genderfluid)",
+        "id": "1984978233310474240",
+        "location": "青地獄",
+        "name": "りすみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005503844290277376/Hyr4m6Y__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 148,
+          "like_count": 5140,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 416
+        },
+        "username": "033_lilihasinda",
+        "verified": false
+      }
+    ]
+  }
+}

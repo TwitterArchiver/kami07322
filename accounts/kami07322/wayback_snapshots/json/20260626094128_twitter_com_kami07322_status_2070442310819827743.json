@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070442188509691904"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "2070442310819827743",
+    "created_at": "2026-06-26T09:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070442310819827743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iKMAxDJX44",
+          "end": 30,
+          "expanded_url": "https://x.com/kami07322/status/2070442310819827743/video/1",
+          "media_key": "13_2070442188509691904",
+          "start": 7,
+          "url": "https://t.co/iKMAxDJX44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070442310819827743",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小啾啾教程😋 https://t.co/iKMAxDJX44"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52053,
+        "height": 1280,
+        "media_key": "13_2070442188509691904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070442188509691904/img/jGz-sMKkev5VDXGi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070442188509691904/vid/avc1/320x568/OPUGj18T7VY6Lz3X.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070442188509691904/vid/avc1/480x852/kveK_qTW0mjr07Fm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070442188509691904/vid/avc1/720x1280/T3CTdwzx9FtpyhDp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070442188509691904/pl/llChnkNLMzdoKeYn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070442188509691904"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "2070442310819827743",
+        "created_at": "2026-06-26T09:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070442310819827743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKMAxDJX44",
+              "end": 30,
+              "expanded_url": "https://x.com/kami07322/status/2070442310819827743/video/1",
+              "media_key": "13_2070442188509691904",
+              "start": 7,
+              "url": "https://t.co/iKMAxDJX44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070442310819827743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小啾啾教程😋 https://t.co/iKMAxDJX44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33178,
+          "following_count": 34,
+          "like_count": 7772,
+          "listed_count": 45,
+          "media_count": 92,
+          "tweet_count": 2141
+        },
+        "url": "",
+        "username": "kami07322",
+        "verified": false
+      }
+    ]
+  }
+}

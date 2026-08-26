@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1995715487452352892",
+    "created_at": "2025-12-02T05:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T06:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995728250606088661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1647414363840720896",
+          "start": 0,
+          "username": "yzdyfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995728250606088661",
+    "in_reply_to_user_id": "1647414363840720896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995716770888360291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzdyfs 寶寶…🥹💙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1995715487452352892",
+        "created_at": "2025-12-02T05:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995728250606088661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1647414363840720896",
+              "start": 0,
+              "username": "yzdyfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995728250606088661",
+        "in_reply_to_user_id": "1647414363840720896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995716770888360291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzdyfs 寶寶…🥹💙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647414363840720896",
+        "conversation_id": "1995715487452352892",
+        "created_at": "2025-12-02T04:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T05:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995716770888360291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995716770888360291",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995715487452352892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 女神…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33634,
+          "following_count": 20,
+          "like_count": 7515,
+          "listed_count": 36,
+          "media_count": 162,
+          "tweet_count": 2725
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-16T01:39:31.000Z",
+        "description": "清水推别骚扰我 不线下没原味 入门可以和我聊天做朋友 没有任何福利不露点不搞黄ovo",
+        "id": "1647414363840720896",
+        "location": "🚪纯绿纯许愿嗯",
+        "name": "火灿焱燚",
+        "pinned_tweet_id": "1995711223430537499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984117358613655552/BQ2ql7Sv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 91,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1172
+        },
+        "username": "yzdyfs",
+        "verified": false
+      }
+    ]
+  }
+}

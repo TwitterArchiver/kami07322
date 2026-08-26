@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2022537854036119753",
+    "created_at": "2026-02-14T05:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T06:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022540808050872641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1564927091660824577",
+          "start": 0,
+          "username": "finalrain_24"
+        },
+        {
+          "end": 28,
+          "id": "1960389326258495492",
+          "start": 14,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022540808050872641",
+    "in_reply_to_user_id": "1564927091660824577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022539747462349091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@finalrain_24 @looolzaozimin 恨來恨去 他只是恨我不愛他罷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2022537854036119753",
+        "created_at": "2026-02-14T05:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022540808050872641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1564927091660824577",
+              "start": 0,
+              "username": "finalrain_24"
+            },
+            {
+              "end": 28,
+              "id": "1960389326258495492",
+              "start": 14,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022540808050872641",
+        "in_reply_to_user_id": "1564927091660824577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022539747462349091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@finalrain_24 @looolzaozimin 恨來恨去 他只是恨我不愛他罷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564927091660824577",
+        "conversation_id": "2022537854036119753",
+        "created_at": "2026-02-14T05:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022539747462349091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            },
+            {
+              "end": 25,
+              "id": "1960389326258495492",
+              "start": 11,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022539747462349091",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022537854036119753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 @looolzaozimin 你当时被刺他的时候忘记了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33176,
+          "following_count": 29,
+          "like_count": 7730,
+          "listed_count": 41,
+          "media_count": 46,
+          "tweet_count": 2162
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T10:44:37.000Z",
+        "description": "final",
+        "id": "1564927091660824577",
+        "name": "amemiya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564927131280322560/y-IlM-TH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 984,
+          "like_count": 6569,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 725
+        },
+        "username": "finalrain_24",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "第二人格@songbansha6606",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "songbansha6606"
+              }
+            ]
+          }
+        },
+        "id": "1960389326258495492",
+        "location": "門288",
+        "name": "小藻",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006630961887535104/Xwoq_Ilo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23390,
+          "following_count": 36,
+          "like_count": 117,
+          "listed_count": 23,
+          "media_count": 70,
+          "tweet_count": 139
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

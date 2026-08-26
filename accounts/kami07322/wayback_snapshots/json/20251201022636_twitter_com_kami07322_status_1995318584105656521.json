@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1995318584105656521",
+    "created_at": "2025-12-01T02:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T03:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995318584105656521"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995318584105656521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小寶寶們\n以後可以幫我多轉轉發留留言嗎\n這個號的流量真的好差 我很傷心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1995318584105656521",
+        "created_at": "2025-12-01T02:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T03:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995318584105656521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995318584105656521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小寶寶們\n以後可以幫我多轉轉發留留言嗎\n這個號的流量真的好差 我很傷心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33645,
+          "following_count": 18,
+          "like_count": 7486,
+          "listed_count": 36,
+          "media_count": 161,
+          "tweet_count": 2712
+        },
+        "username": "kami07322",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1999409928646328435",
+    "created_at": "2025-12-12T11:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T12:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999435207280328932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593473416664711169",
+          "start": 0,
+          "username": "Chron0s___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999435207280328932",
+    "in_reply_to_user_id": "1593473416664711169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999426541382680909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chron0s___ 怎麼不按跟隨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1999409928646328435",
+        "created_at": "2025-12-12T11:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999435207280328932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1593473416664711169",
+              "start": 0,
+              "username": "Chron0s___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999435207280328932",
+        "in_reply_to_user_id": "1593473416664711169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999426541382680909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chron0s___ 怎麼不按跟隨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593473416664711169",
+        "conversation_id": "1999409928646328435",
+        "created_at": "2025-12-12T10:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999426541382680909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999426541382680909",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999409928646328435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 你好帅啊真迷人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了                                        裏帳@kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33359,
+          "following_count": 24,
+          "like_count": 7585,
+          "listed_count": 35,
+          "media_count": 55,
+          "tweet_count": 2658
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-18T05:17:31.000Z",
+        "description": "",
+        "id": "1593473416664711169",
+        "name": "MAGICLOVE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868752640961921028/7lf7Qzoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 113,
+          "like_count": 1767,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "Chron0s___",
+        "verified": false
+      }
+    ]
+  }
+}

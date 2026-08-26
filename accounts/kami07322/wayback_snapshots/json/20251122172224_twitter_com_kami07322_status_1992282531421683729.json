@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1992282531421683729",
+    "created_at": "2025-11-22T17:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T18:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992282531421683729"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992282531421683729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "買了粉絲那麼多的號我很沒有成就感 我有想法手動取消一些粉絲 但是這會很麻煩\n我希望你們安慰我一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1992282531421683729",
+        "created_at": "2025-11-22T17:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992282531421683729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992282531421683729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "買了粉絲那麼多的號我很沒有成就感 我有想法手動取消一些粉絲 但是這會很麻煩\n我希望你們安慰我一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 會陸續清除跟隨",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33497,
+          "following_count": 11,
+          "like_count": 7420,
+          "listed_count": 36,
+          "media_count": 164,
+          "tweet_count": 2697
+        },
+        "username": "kami07322",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988937026113269760"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "1988937039178527066",
+    "created_at": "2025-11-13T11:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T12:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988937039178527066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/66ctHJnF9j",
+          "end": 28,
+          "expanded_url": "https://x.com/kami07322/status/1988937039178527066/photo/1",
+          "media_key": "3_1988937026113269760",
+          "start": 5,
+          "url": "https://t.co/66ctHJnF9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988937039178527066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久不見 https://t.co/66ctHJnF9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988937026113269760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ofr_oacAAAPPE.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988937026113269760"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1988937039178527066",
+        "created_at": "2025-11-13T11:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T12:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988937039178527066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66ctHJnF9j",
+              "end": 28,
+              "expanded_url": "https://x.com/kami07322/status/1988937039178527066/photo/1",
+              "media_key": "3_1988937026113269760",
+              "start": 5,
+              "url": "https://t.co/66ctHJnF9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988937039178527066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久不見 https://t.co/66ctHJnF9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 會陸續清除跟隨 小咪：@mofumofuyewo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "mofumofuyewo"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33696,
+          "following_count": 546,
+          "like_count": 7393,
+          "listed_count": 38,
+          "media_count": 201,
+          "tweet_count": 2711
+        },
+        "username": "kami07322",
+        "verified": true
+      }
+    ]
+  }
+}

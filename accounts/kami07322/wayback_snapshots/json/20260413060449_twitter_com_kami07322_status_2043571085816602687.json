@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2043501040239305146",
+    "created_at": "2026-04-13T06:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043571085816602687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1494915601235857410",
+          "start": 0,
+          "username": "palesaber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043571085816602687",
+    "in_reply_to_user_id": "1494915601235857410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043513102893973954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@palesaber 我還沒選"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2043501040239305146",
+        "created_at": "2026-04-13T06:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043571085816602687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1494915601235857410",
+              "start": 0,
+              "username": "palesaber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043571085816602687",
+        "in_reply_to_user_id": "1494915601235857410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043513102893973954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@palesaber 我還沒選"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494915601235857410",
+        "conversation_id": "2043501040239305146",
+        "created_at": "2026-04-13T02:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043513102893973954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043513102893973954",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043501040239305146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 哪个区的？上号！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32861,
+          "following_count": 31,
+          "like_count": 7765,
+          "listed_count": 44,
+          "media_count": 66,
+          "tweet_count": 2083
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-19T06:03:59.000Z",
+        "description": "呜啪！",
+        "id": "1494915601235857410",
+        "location": "china",
+        "name": "因纽特帝王蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801979695438991360/gEuiHRFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 760,
+          "like_count": 16645,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 2089
+        },
+        "username": "palesaber",
+        "verified": false
+      }
+    ]
+  }
+}

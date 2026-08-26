@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2024446981066944714",
+    "created_at": "2026-02-19T16:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024528133043675198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1644336219751583747",
+          "start": 0,
+          "username": "banban4444886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024528133043675198",
+    "in_reply_to_user_id": "1644336219751583747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024446981066944714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banban4444886 臉凍紅啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6058,
+        "height": 1280,
+        "media_key": "13_2024446914528497664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024446914528497664/img/ljTZxSVbVww86imi.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024446914528497664/vid/avc1/320x568/cxcg3pMoJfcoXG96.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024446914528497664/vid/avc1/480x852/uHRBws7vYvNr3Q4l.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024446914528497664/vid/avc1/720x1280/0y0xFAcg5UI-gr3L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024446914528497664/pl/hh71aF7SVmkVvbXm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2024446981066944714",
+        "created_at": "2026-02-19T16:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024528133043675198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1644336219751583747",
+              "start": 0,
+              "username": "banban4444886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024528133043675198",
+        "in_reply_to_user_id": "1644336219751583747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024446981066944714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banban4444886 臉凍紅啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024446914528497664"
+          ]
+        },
+        "author_id": "1644336219751583747",
+        "conversation_id": "2024446981066944714",
+        "created_at": "2026-02-19T11:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024446981066944714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmHpfmOts5",
+              "end": 25,
+              "expanded_url": "https://x.com/banban4444886/status/2024446981066944714/video/1",
+              "media_key": "13_2024446914528497664",
+              "start": 2,
+              "url": "https://t.co/nmHpfmOts5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024446981066944714",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🫥 https://t.co/nmHpfmOts5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神               🚪128 288 688 裡賬 💙@kami2234523💙   最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "kami2234523"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33151,
+          "following_count": 29,
+          "like_count": 7759,
+          "listed_count": 41,
+          "media_count": 47,
+          "tweet_count": 2170
+        },
+        "username": "kami07322",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:48:14.000Z",
+        "description": "",
+        "id": "1644336219751583747",
+        "name": "VON",
+        "pinned_tweet_id": "2019893658024333397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960982728590950400/-cT_tdyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 97,
+          "like_count": 1146,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 818
+        },
+        "username": "banban4444886",
+        "verified": false
+      }
+    ]
+  }
+}

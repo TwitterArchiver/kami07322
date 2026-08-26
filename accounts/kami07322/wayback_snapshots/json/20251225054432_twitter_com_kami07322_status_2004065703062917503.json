@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "2004037531579650086",
+    "created_at": "2025-12-25T05:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T06:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004065703062917503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522094329954652161",
+          "start": 0,
+          "username": "0xo_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004065703062917503",
+    "in_reply_to_user_id": "1522094329954652161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004037531579650086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xo_snow 可愛捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "2004037531579650086",
+        "created_at": "2025-12-25T05:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T06:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004065703062917503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522094329954652161",
+              "start": 0,
+              "username": "0xo_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004065703062917503",
+        "in_reply_to_user_id": "1522094329954652161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004037531579650086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xo_snow 可愛捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522094329954652161",
+        "conversation_id": "2004037531579650086",
+        "created_at": "2025-12-25T03:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T04:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004037531579650086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004037531579650086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 695,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被夸可爱已经成为我的人生追求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了               🚪50 288 688 裡賬 @kami2234523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "kami2234523"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33160,
+          "following_count": 22,
+          "like_count": 7633,
+          "listed_count": 36,
+          "media_count": 52,
+          "tweet_count": 2692
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-05T06:02:50.000Z",
+        "description": "我是Rayne/恋^^~☆ ｜07话唠装萌姬｜*可爱为正义🩶｜主页基本是我唱的歌&自拍🎵欢迎来找我玩我在北京！！！不推广不搞黄🐰🎀对一切有礼貌的生物友好៸៸᳐⦁⩊⦁៸៸᳐ ੭ﾞ",
+        "id": "1522094329954652161",
+        "location": "私信/扫码88r=找我交朋友/聊天/线下 ❕祝你天天开心💗",
+        "name": "🐰れん⊹",
+        "pinned_tweet_id": "1994363508541329812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002849239760859136/mil_LFoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18602,
+          "following_count": 383,
+          "like_count": 13789,
+          "listed_count": 32,
+          "media_count": 1054,
+          "tweet_count": 11317
+        },
+        "username": "0xo_snow",
+        "verified": true
+      }
+    ]
+  }
+}

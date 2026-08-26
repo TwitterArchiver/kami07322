@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995022175393529856"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995022186441253293",
+    "created_at": "2025-11-30T06:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T07:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995022186441253293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VoiMLomYfg",
+          "end": 28,
+          "expanded_url": "https://x.com/kami07322/status/1995022186441253293/photo/1",
+          "media_key": "3_1995022175393529856",
+          "start": 5,
+          "url": "https://t.co/VoiMLomYfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995022186441253293",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "俯瞰眾生 https://t.co/VoiMLomYfg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995022175393529856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6--GTNbwAADMwi.jpg",
+        "width": 1802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995022175393529856"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995022186441253293",
+        "created_at": "2025-11-30T06:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995022186441253293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VoiMLomYfg",
+              "end": 28,
+              "expanded_url": "https://x.com/kami07322/status/1995022186441253293/photo/1",
+              "media_key": "3_1995022175393529856",
+              "start": 5,
+              "url": "https://t.co/VoiMLomYfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995022186441253293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俯瞰眾生 https://t.co/VoiMLomYfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 之前的號炸了",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33640,
+          "following_count": 17,
+          "like_count": 7473,
+          "listed_count": 36,
+          "media_count": 161,
+          "tweet_count": 2706
+        },
+        "username": "kami07322",
+        "verified": true
+      }
+    ]
+  }
+}
