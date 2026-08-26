@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988146622581403651"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "1988146628658864374",
+    "created_at": "2025-11-11T07:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T08:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988146628658864374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lv47sEKD6j",
+          "end": 28,
+          "expanded_url": "https://x.com/kami07322/status/1988146628658864374/photo/1",
+          "media_key": "3_1988146622581403651",
+          "start": 5,
+          "url": "https://t.co/Lv47sEKD6j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988146628658864374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来根吗🚬 https://t.co/Lv47sEKD6j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 770,
+        "media_key": "3_1988146622581403651",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dQ0dBbcAMIpJj.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988146622581403651"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1988146628658864374",
+        "created_at": "2025-11-11T07:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T08:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988146628658864374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lv47sEKD6j",
+              "end": 28,
+              "expanded_url": "https://x.com/kami07322/status/1988146628658864374/photo/1",
+              "media_key": "3_1988146622581403651",
+              "start": 5,
+              "url": "https://t.co/Lv47sEKD6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988146628658864374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来根吗🚬 https://t.co/Lv47sEKD6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 會陸續清除跟隨",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33683,
+          "following_count": 740,
+          "like_count": 7381,
+          "listed_count": 38,
+          "media_count": 214,
+          "tweet_count": 2718
+        },
+        "username": "kami07322",
+        "verified": true
+      }
+    ]
+  }
+}
