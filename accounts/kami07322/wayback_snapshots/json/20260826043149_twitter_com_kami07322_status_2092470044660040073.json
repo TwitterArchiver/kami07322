@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092470032286752768"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "2092470044660040073",
+    "created_at": "2026-08-26T04:31:49.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T05:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092470044660040073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GbkjAbGqBL",
+          "end": 29,
+          "expanded_url": "https://x.com/kami07322/status/2092470044660040073/photo/1",
+          "media_key": "3_2092470032286752768",
+          "start": 6,
+          "url": "https://t.co/GbkjAbGqBL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092470044660040073",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092470032286752768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死んだね⋯ https://t.co/GbkjAbGqBL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092470032286752768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnyaHGaIAAaLgc.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092470032286752768"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "2092470044660040073",
+        "created_at": "2026-08-26T04:31:49.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092470044660040073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbkjAbGqBL",
+              "end": 29,
+              "expanded_url": "https://x.com/kami07322/status/2092470044660040073/photo/1",
+              "media_key": "3_2092470032286752768",
+              "start": 6,
+              "url": "https://t.co/GbkjAbGqBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092470044660040073",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092470032286752768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死んだね⋯ https://t.co/GbkjAbGqBL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神  正在努力偽裝成人類中⋯🚪128 288 688 裡賬 💙@kami2234523💙 最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "kami2234523"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092470044660040073",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747931023277502465/1767625354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33113,
+          "following_count": 40,
+          "like_count": 7704,
+          "listed_count": 45,
+          "media_count": 105,
+          "tweet_count": 2054
+        },
+        "url": "",
+        "username": "kami07322",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1987087785715806484",
+    "created_at": "2025-11-09T05:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T06:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987398682980053114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1869741312125386753",
+          "start": 0,
+          "username": "NOT_ALIVE_MORE"
+        },
+        {
+          "end": 40,
+          "id": "1592719222940962817",
+          "start": 27,
+          "username": "mofumofuyewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987398682980053114",
+    "in_reply_to_user_id": "1869741312125386753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987329698238767137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NOT_ALIVE_MORE 拜託我又不是強盜 😅 @mofumofuyewo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1987087785715806484",
+        "created_at": "2025-11-09T05:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T06:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987398682980053114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1869741312125386753",
+              "start": 0,
+              "username": "NOT_ALIVE_MORE"
+            },
+            {
+              "end": 40,
+              "id": "1592719222940962817",
+              "start": 27,
+              "username": "mofumofuyewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987398682980053114",
+        "in_reply_to_user_id": "1869741312125386753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987329698238767137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NOT_ALIVE_MORE 拜託我又不是強盜 😅 @mofumofuyewo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869741312125386753",
+        "conversation_id": "1987087785715806484",
+        "created_at": "2025-11-09T01:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T02:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987329698238767137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987329698238767137",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987087785715806484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 把小咪还回来...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 會陸續清除跟隨",
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33679,
+          "following_count": 803,
+          "like_count": 7380,
+          "listed_count": 39,
+          "media_count": 213,
+          "tweet_count": 2716
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-19T13:47:29.000Z",
+        "description": "#shtwt#selfharm\nher/she     INFP     中文/にほんご/ENG⭕️\n米米，内陆，双性恋！！门槛52r接陪聊，欢迎咨询",
+        "id": "1869741312125386753",
+        "location": "我哭不出來",
+        "name": "米米",
+        "pinned_tweet_id": "1985281563610005633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985278658123309056/pW2x9vj-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 107,
+          "like_count": 1198,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 391
+        },
+        "username": "NOT_ALIVE_MORE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "旧号卖了喵｜マヌルネコ中毒｜王老师是我的恋人我的朋友我的母亲我的狗我的主人我的灵魂伴侣我的性奴隶｜腋窝的名字是小咪",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "小咪之家重生版",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987089820573966337/WElOadft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 664,
+          "like_count": 1666,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1039
+        },
+        "username": "mofumofuyewo",
+        "verified": false
+      }
+    ]
+  }
+}

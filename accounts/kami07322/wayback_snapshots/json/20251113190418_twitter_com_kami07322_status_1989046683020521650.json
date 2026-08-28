@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1747931023277502465",
+    "conversation_id": "1988937039178527066",
+    "created_at": "2025-11-13T19:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T20:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989046683020521650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787153987369877504",
+          "start": 0,
+          "username": "chidiaoningning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989046683020521650",
+    "in_reply_to_user_id": "1787153987369877504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989004504155738382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chidiaoningning 是嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1988937039178527066",
+        "created_at": "2025-11-13T19:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T20:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989046683020521650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787153987369877504",
+              "start": 0,
+              "username": "chidiaoningning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989046683020521650",
+        "in_reply_to_user_id": "1787153987369877504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989004504155738382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidiaoningning 是嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787153987369877504",
+        "conversation_id": "1988937039178527066",
+        "created_at": "2025-11-13T16:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989004504155738382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "kami07322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989004504155738382",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988937039178527066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami07322 宝宝是带了美瞳吗！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神 會陸續清除跟隨 小咪：@mofumofuyewo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "mofumofuyewo"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "1987087785715806484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987087156876394496/ExfVA909_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33693,
+          "following_count": 496,
+          "like_count": 7396,
+          "listed_count": 38,
+          "media_count": 201,
+          "tweet_count": 2716
+        },
+        "username": "kami07322",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-05T16:15:03.000Z",
+        "description": "小狗的碎碎念݂｜祝你天天开心 | 🚪520｜文案与本人无关 |",
+        "id": "1787153987369877504",
+        "location": "1.5km",
+        "name": "小凝椰汁",
+        "pinned_tweet_id": "1809909367208100000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793543446004916224/KUlaDS8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3327,
+          "following_count": 106,
+          "like_count": 758,
+          "listed_count": 5,
+          "media_count": 8,
+          "tweet_count": 561
+        },
+        "username": "chidiaoningning",
+        "verified": false
+      }
+    ]
+  }
+}
