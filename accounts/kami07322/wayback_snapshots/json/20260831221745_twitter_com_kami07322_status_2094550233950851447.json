@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094362066748682240"
+      ],
+      "media_source_tweet_id": [
+        "2094362075514732965"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "2094550233950851447",
+    "created_at": "2026-08-31T22:17:45.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T23:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094550233950851447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2084995706541191168",
+          "start": 3,
+          "username": "nuoer66444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VWizSDzUS3",
+          "end": 76,
+          "expanded_url": "https://x.com/nuoer66444/status/2094362075514732965/photo/1",
+          "media_key": "3_2094362066748682240",
+          "start": 53,
+          "url": "https://t.co/VWizSDzUS3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094550233950851447",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094362066748682240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094362075514732965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nuoer66444: 上次…我被软禁，这次我一定要找回我的全部！求互关们回来TT，感谢转发😭😭 https://t.co/VWizSDzUS3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094362066748682240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCrNAubsAALLcb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094362066748682240"
+          ],
+          "media_source_tweet_id": [
+            "2094362075514732965"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "2094550233950851447",
+        "created_at": "2026-08-31T22:17:45.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T23:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094550233950851447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2084995706541191168",
+              "start": 3,
+              "username": "nuoer66444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWizSDzUS3",
+              "end": 76,
+              "expanded_url": "https://x.com/nuoer66444/status/2094362075514732965/photo/1",
+              "media_key": "3_2094362066748682240",
+              "start": 53,
+              "url": "https://t.co/VWizSDzUS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094550233950851447",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094362066748682240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094362075514732965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nuoer66444: 上次…我被软禁，这次我一定要找回我的全部！求互关们回来TT，感谢转发😭😭 https://t.co/VWizSDzUS3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094362066748682240"
+          ]
+        },
+        "author_id": "2084995706541191168",
+        "conversation_id": "2094362075514732965",
+        "created_at": "2026-08-31T09:50:04.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094362075514732965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWizSDzUS3",
+              "end": 60,
+              "expanded_url": "https://x.com/nuoer66444/status/2094362075514732965/photo/1",
+              "media_key": "3_2094362066748682240",
+              "start": 37,
+              "url": "https://t.co/VWizSDzUS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094362075514732965",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094362066748682240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 642,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "上次…我被软禁，这次我一定要找回我的全部！求互关们回来TT，感谢转发😭😭 https://t.co/VWizSDzUS3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神  正在努力偽裝成人類中⋯🚪128 288 688 裡賬 💙@kami2234523💙 最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "kami2234523"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094550233950851447",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747931023277502465/1767625354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33118,
+          "following_count": 40,
+          "like_count": 7732,
+          "listed_count": 46,
+          "media_count": 106,
+          "tweet_count": 2056
+        },
+        "url": "",
+        "username": "kami07322",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T13:33:49.000Z",
+        "description": "",
+        "id": "2084995706541191168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094410398883840428",
+        "name": "刹那",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084995706541191168/1788169461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094360587627360256/zNy93-h0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 3,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "nuoer66444",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
