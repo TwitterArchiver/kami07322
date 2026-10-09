@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2102001399701831680",
+        "13_2102001399714492416"
+      ]
+    },
+    "author_id": "1747931023277502465",
+    "conversation_id": "2102001439556145281",
+    "created_at": "2026-09-21T11:46:11.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T12:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102001439556145281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yo8lR4Bmcc",
+          "end": 39,
+          "expanded_url": "https://x.com/kami07322/status/2102001439556145281/video/1",
+          "media_key": "13_2102001399701831680",
+          "start": 16,
+          "url": "https://t.co/Yo8lR4Bmcc"
+        },
+        {
+          "display_url": "pic.x.com/Yo8lR4Bmcc",
+          "end": 39,
+          "expanded_url": "https://x.com/kami07322/status/2102001439556145281/video/1",
+          "media_key": "13_2102001399714492416",
+          "start": 16,
+          "url": "https://t.co/Yo8lR4Bmcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102001439556145281",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2102001399701831680"
+      },
+      {
+        "media_key": "13_2102001399714492416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(｡ ́︿ ̀｡)好開心好難過 https://t.co/Yo8lR4Bmcc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5640,
+        "height": 1280,
+        "media_key": "13_2102001399701831680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102001399701831680/img/TDTJXD2P92dSzNh-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102001399701831680/vid/avc1/320x568/Mqhb4TS2HMbvMqNv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102001399701831680/vid/avc1/480x852/fzcuJHnUra9to3SL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102001399701831680/vid/avc1/720x1280/7Dcf46MIZ2OoLgsX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102001399701831680/pl/OREdlzXTsbQPjBKK.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3521,
+        "height": 1280,
+        "media_key": "13_2102001399714492416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102001399714492416/img/L9jiZy0sYNCbmW5T.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102001399714492416/vid/avc1/320x568/ZZ3OGRqq45yaByWi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102001399714492416/vid/avc1/480x852/Hweu4XKCrPP9FEVk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102001399714492416/vid/avc1/720x1280/eW6ufAeIiDEEB97F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102001399714492416/pl/g8MMIBebjmP4dyc-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102001399701831680",
+            "13_2102001399714492416"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "2102001439556145281",
+        "created_at": "2026-09-21T11:46:11.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102001439556145281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yo8lR4Bmcc",
+              "end": 39,
+              "expanded_url": "https://x.com/kami07322/status/2102001439556145281/video/1",
+              "media_key": "13_2102001399701831680",
+              "start": 16,
+              "url": "https://t.co/Yo8lR4Bmcc"
+            },
+            {
+              "display_url": "pic.x.com/Yo8lR4Bmcc",
+              "end": 39,
+              "expanded_url": "https://x.com/kami07322/status/2102001439556145281/video/1",
+              "media_key": "13_2102001399714492416",
+              "start": 16,
+              "url": "https://t.co/Yo8lR4Bmcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102001439556145281",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102001399701831680"
+          },
+          {
+            "media_key": "13_2102001399714492416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(｡ ́︿ ̀｡)好開心好難過 https://t.co/Yo8lR4Bmcc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "偉大的海眠大人，想要消滅人類拯救世界。自我認知神  正在努力偽裝成人類中⋯🚪128 288 688 裡賬 💙@kami2234523💙 最喜歡 💖@skura_ku💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "kami2234523"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "skura_ku"
+              }
+            ]
+          }
+        },
+        "id": "1747931023277502465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102001439556145281",
+        "name": "海眠大人🪦",
+        "pinned_tweet_id": "2004383669100945766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747931023277502465/1767625354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001036495436832768/V82_B_jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33221,
+          "following_count": 41,
+          "like_count": 7776,
+          "listed_count": 46,
+          "media_count": 113,
+          "tweet_count": 2066
+        },
+        "url": "",
+        "username": "kami07322",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
